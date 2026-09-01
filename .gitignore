@@ -1,0 +1,45 @@
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# 日志文件
+*.log
+
+# 编译产物（示例用，项目本身是文档项目）
+*.pyc
+__pycache__/
+*.class
+*.out
+*.o
+
+# 系统文件
+*.sys
+*.dll
+
+# Node（如果未来添加前端工具）
+node_modules/
+dist/
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 大文件（不建议放入仓库的示例）
+examples/*.mp4
+examples/*.mp3
+examples/*.iso

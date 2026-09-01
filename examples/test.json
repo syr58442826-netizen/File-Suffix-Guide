@@ -1,0 +1,22 @@
+{
+  "项目名称": "File-Suffix-Guide",
+  "版本": "1.0.0",
+  "描述": "全网最全文件后缀使用手册",
+  "分类数量": 8,
+  "是否开源": true,
+  "开源协议": "MIT",
+  "支持平台": ["Windows", "Mac", "Linux"],
+  "作者信息": {
+    "维护者": "File-Suffix-Guide Contributors",
+    "仓库": "https://github.com/yourname/File-Suffix-Guide"
+  },
+  "示例文件": [
+    "test.txt",
+    "test.md",
+    "test.html",
+    "test.py",
+    "test.csv",
+    "test.zip",
+    "test.json"
+  ]
+}
