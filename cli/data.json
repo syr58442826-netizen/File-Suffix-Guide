@@ -1,0 +1,4815 @@
+[
+  {
+    "suffix": "csv",
+    "name": "逗号分隔值",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/csv.md",
+    "tags": [
+      "办公",
+      "文档",
+      "文本"
+    ],
+    "description": "CSV 是 逗号分隔值（Comma-Separated Values）的缩写，是一种非常简单的纯文本表格格式。它用逗号来分隔不同的列，用换行来分隔不同的行。因为格式简单，几乎所有数据处理软件都支持 CSV。",
+    "software": [
+      "记事本",
+      "Notepad++",
+      "Excel",
+      "WPS 免费版",
+      "LibreOffice Calc",
+      "文本编辑"
+    ],
+    "errors": [
+      "打开 CSV 后中文显示乱码"
+    ]
+  },
+  {
+    "suffix": "doc",
+    "name": "文字处理格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/doc.md",
+    "tags": [
+      "办公",
+      "文档",
+      "二进制"
+    ],
+    "description": "DOC 是微软 Word 97-2003 文档的后缀名，是微软旧版 Word 使用的二进制文档格式。它曾经是世界上最流行的文字处理格式，虽然现在已经被 DOCX 取代，但由于历史存量巨大，仍然经常能遇到。",
+    "software": [
+      "WordPad（写字板，部分兼容）",
+      "WPS Office 免费版",
+      "LibreOffice Writer",
+      "OpenOffice",
+      "Pages（部分兼容）",
+      "OpenOffice Writer"
+    ],
+    "errors": [
+      "打开时提示\"文件格式无效\"或\"无法打开\""
+    ]
+  },
+  {
+    "suffix": "docm",
+    "name": "是的宏启用文档格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/docm.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "DOCM 是 Word Macro-Enabled Document 的缩写，是 Microsoft Word 的宏启用文档格式。它和 .docx 几乎一样，唯一的区别就是 .docm 文件中可以包含 VBA（Visual Basic for Applications）宏代码。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Writer",
+      "Pages（不支持宏）"
+    ],
+    "errors": [
+      "打开时提示\"宏已被禁用\"，宏不运行"
+    ]
+  },
+  {
+    "suffix": "docx",
+    "name": "Microsoft Word 文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/docx.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "DOCX 是 Microsoft Word 文档的现代格式，从 Office 2007 开始使用，取代了旧的 .doc 格式。它基于 Open XML 标准，本质上是一个 ZIP 压缩包，里面包含 XML 格式的文档内容和相关资源文件。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Writer",
+      "WordPad（只读）",
+      "Pages（苹果自带）",
+      "Google Docs（在线）",
+      "OpenOffice Writer"
+    ],
+    "errors": [
+      "打开时提示\"文件已损坏，无法打开\""
+    ]
+  },
+  {
+    "suffix": "epub",
+    "name": "电子出版物",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/epub.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "EPUB 是 电子出版物（Electronic Publication）的缩写，是目前最主流的电子书格式。它最大的特点是\"流式排版\"——文字会根据屏幕大小自动调整，非常适合手机、平板、电子书阅读器等不同尺寸的设备阅读。",
+    "software": [
+      "Calibre",
+      "Sumatra PDF",
+      "Edge 浏览器（新版支持）",
+      "Neat Reader",
+      "Adobe Digital Editions",
+      "FBReader"
+    ],
+    "errors": [
+      "EPUB 打开后乱码或排版混乱"
+    ]
+  },
+  {
+    "suffix": "log",
+    "name": "日志文件",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/log.md",
+    "tags": [
+      "办公",
+      "文档",
+      "二进制",
+      "文本"
+    ],
+    "description": "LOG 是 日志文件（Log File）的后缀名，用于记录系统、软件或服务的运行状态、操作记录、错误信息等。它就像是软件的\"日记\"，把发生过的事情按时间顺序一条条记下来，方便出问题时排查原因。",
+    "software": [
+      "记事本",
+      "Notepad++",
+      "Event Viewer（系统日志）",
+      "BareTail",
+      "TextEdit",
+      "Visual Studio Code"
+    ],
+    "errors": [
+      "日志文件太大，打开很慢或打不开"
+    ]
+  },
+  {
+    "suffix": "md",
+    "name": "轻量级标记语言",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/md.md",
+    "tags": [
+      "办公",
+      "文档",
+      "文本"
+    ],
+    "description": "MD 是 Markdown 文档的后缀名。Markdown 是一种轻量级标记语言，用简单的符号来标记文本格式（标题、列表、加粗等），既能保持纯文本的可读性，又能通过渲染呈现出丰富的排版效果。",
+    "software": [
+      "Visual Studio Code",
+      "Notepad++（需插件）",
+      "Typora（免费版）",
+      "MacDown",
+      "Obsidian",
+      "ReText"
+    ],
+    "errors": [
+      "Markdown 文件双击打不开"
+    ]
+  },
+  {
+    "suffix": "mobi",
+    "name": "电子书格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/mobi.md",
+    "tags": [
+      "办公",
+      "文档",
+      "加密"
+    ],
+    "description": "MOBI 是 Mobipocket 电子书格式的后缀名，最初由 Mobipocket 公司开发，后来被亚马逊收购，成为 Kindle 电子书阅读器的主要格式。虽然亚马逊正在推新的 KFX 格式，但 MOBI 仍然是 Kindle 生态中最通用的格式。",
+    "software": [
+      "Calibre",
+      "Kindle for PC",
+      "Sumatra PDF",
+      "FBReader",
+      "Kindle for Mac",
+      "Apple Books（部分支持）"
+    ],
+    "errors": [
+      "把 MOBI 放到 Kindle 里找不到"
+    ]
+  },
+  {
+    "suffix": "odp",
+    "name": "开放标准的演示文稿文件格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/odp.md",
+    "tags": [
+      "办公",
+      "文档",
+      "开源",
+      "跨平台"
+    ],
+    "description": "ODP 是 OpenDocument Presentation 的缩写，是一种开放标准的演示文稿文件格式。它由 OASIS 组织制定标准，是 LibreOffice Impress、OpenOffice Impress 等开源办公软件的默认演示文稿格式，同时也被 Microsoft PowerPoint 支持。",
+    "software": [
+      "LibreOffice Impress",
+      "OpenOffice Impress",
+      "WPS Office 免费版",
+      "Keynote"
+    ],
+    "errors": [
+      "在 PowerPoint 中打开 ODP 后动画和切换效果丢失"
+    ]
+  },
+  {
+    "suffix": "ods",
+    "name": "开放标准的电子表格文件格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/ods.md",
+    "tags": [
+      "办公",
+      "文档",
+      "开源",
+      "跨平台"
+    ],
+    "description": "ODS 是 OpenDocument Spreadsheet 的缩写，是一种开放标准的电子表格文件格式。它由 OASIS 组织制定标准，是 LibreOffice Calc、OpenOffice Calc 等开源办公软件的默认格式，同时也被 Microsoft Excel 支持。",
+    "software": [
+      "LibreOffice Calc",
+      "OpenOffice Calc",
+      "WPS Office 免费版",
+      "Numbers",
+      "Gnumeric"
+    ],
+    "errors": [
+      "在 Excel 中打开 ODS 后部分公式报错或显示 #NAME?"
+    ]
+  },
+  {
+    "suffix": "pdf",
+    "name": "便携式文档格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pdf.md",
+    "tags": [
+      "办公",
+      "文档",
+      "加密",
+      "跨平台"
+    ],
+    "description": "PDF 是 便携式文档格式（Portable Document Format）的缩写，由 Adobe 公司发明。它最大的特点是：在任何设备、任何软件上打开，排版都完全一样，不会因为字体缺失、版本不同而错乱。",
+    "software": [
+      "Adobe Reader",
+      "WPS",
+      "福昕阅读器",
+      "Safari",
+      "Evince",
+      "Okular"
+    ],
+    "errors": [
+      "PDF 打开后文字乱码或显示为方块"
+    ]
+  },
+  {
+    "suffix": "ppt",
+    "name": "PowerPoint 97-2003 演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/ppt.md",
+    "tags": [
+      "办公",
+      "文档",
+      "二进制"
+    ],
+    "description": "PPT 是 PowerPoint 97-2003 演示文稿的后缀名，是微软旧版 PowerPoint 使用的二进制演示格式。它曾经是演示文稿的代名词，虽然现在被 PPTX 取代，但很多老电脑、老系统里还有大量 PPT 文件。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Impress",
+      "PowerPoint Viewer（已停产）",
+      "Keynote（导入可能有格式损失）",
+      "OpenOffice Impress"
+    ],
+    "errors": [
+      "打开后字体变了，排版错位"
+    ]
+  },
+  {
+    "suffix": "pptm",
+    "name": "是的宏启用演示文稿格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pptm.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "PPTM 是 PowerPoint Macro-Enabled Presentation 的缩写，是 Microsoft PowerPoint 的宏启用演示文稿格式。它和 .pptx 几乎一样，区别是 .pptm 可以包含 VBA 宏代码。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Impress",
+      "Keynote（不支持宏）"
+    ],
+    "errors": [
+      "打开时宏不运行，提示\"宏已被禁用\""
+    ]
+  },
+  {
+    "suffix": "pptx",
+    "name": "Microsoft PowerPoint 演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pptx.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "PPTX 是 Microsoft PowerPoint 演示文稿的现代格式，从 Office 2007 开始使用，取代了旧的 .ppt 格式。它基于 Open XML 标准，是目前世界上最主流的演示文稿格式。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Impress",
+      "PowerPoint 网页版",
+      "Keynote（苹果自带，导入使用）",
+      "OnlyOffice",
+      "OpenOffice Impress"
+    ],
+    "errors": [
+      "换台电脑打开，字体变了、排版乱了"
+    ]
+  },
+  {
+    "suffix": "txt",
+    "name": "纯文本文件",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/txt.md",
+    "tags": [
+      "办公",
+      "文档",
+      "加密",
+      "文本"
+    ],
+    "description": "TXT 是 纯文本文件（Text File）的后缀名，是最基础、最通用的文件格式之一。它只包含纯文字内容，不包含任何格式排版（如字体、颜色、加粗、图片等）。",
+    "software": [
+      "Notepad++",
+      "Visual Studio Code",
+      "TextEdit",
+      "Gedit",
+      "Kate",
+      "Vim"
+    ],
+    "errors": [
+      "打开后显示乱码"
+    ]
+  },
+  {
+    "suffix": "wps",
+    "name": "金山 WPS Office",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/wps.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "WPS 是 金山 WPS Office 文字处理文档的后缀名，是国产办公软件 WPS 的默认文档格式。WPS Office 在中国拥有大量用户，是 Microsoft Office 的重要替代品。",
+    "software": [
+      "WPS Office 免费版",
+      "Microsoft Word（部分兼容）",
+      "LibreOffice",
+      "WPS Office for Mac 免费版",
+      "WPS Office for Linux",
+      "LibreOffice Writer"
+    ],
+    "errors": [
+      "用 Word 打开 WPS 文件排版错乱"
+    ]
+  },
+  {
+    "suffix": "xls",
+    "name": "Excel 97-2003 电子表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xls.md",
+    "tags": [
+      "办公",
+      "文档",
+      "二进制"
+    ],
+    "description": "XLS 是 Excel 97-2003 电子表格的后缀名，是微软旧版 Excel 使用的二进制表格格式。虽然已经被 XLSX 取代，但由于历史存量巨大，很多老系统、老数据仍然使用这种格式。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Calc",
+      "Numbers（部分兼容）",
+      "OpenOffice Calc",
+      "Gnumeric"
+    ],
+    "errors": [
+      "打开时提示\"该文件的格式与扩展名不匹配\""
+    ]
+  },
+  {
+    "suffix": "xlsm",
+    "name": "是的宏启用工作簿格式",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xlsm.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "XLSM 是 Excel Macro-Enabled Workbook 的缩写，是 Microsoft Excel 的宏启用工作簿格式。它和 .xlsx 几乎完全一样，区别在于 .xlsm 文件可以包含 VBA 宏代码。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Calc",
+      "Numbers（不支持宏）",
+      "Gnumeric"
+    ],
+    "errors": [
+      "打开时宏不运行，提示\"宏已被禁用\""
+    ]
+  },
+  {
+    "suffix": "xlsx",
+    "name": "Microsoft Excel 电子表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xlsx.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "XLSX 是 Microsoft Excel 电子表格的现代格式，从 Office 2007 开始使用，取代了旧的 .xls 格式。它基于 Open XML 标准，是目前世界上最流行的电子表格格式。",
+    "software": [
+      "WPS Office 免费版",
+      "LibreOffice Calc",
+      "Excel 网页版",
+      "Numbers（苹果自带）",
+      "Google Sheets",
+      "OnlyOffice"
+    ],
+    "errors": [
+      "打开文件提示\"受保护的视图\"，不能编辑"
+    ]
+  },
+  {
+    "suffix": "xps",
+    "name": "XML 纸张规范",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xps.md",
+    "tags": [
+      "办公",
+      "文档"
+    ],
+    "description": "XPS 是 XML 纸张规范（XML Paper Specification）的缩写，是微软推出的一种固定版式文档格式，定位和 PDF 类似——确保在任何设备上打开，排版都完全一致。它是 Windows 系统内置支持的格式，但普及率远不如 PDF。",
+    "software": [
+      "Edge 浏览器",
+      "没有原生支持",
+      "需转换为 PDF 查看",
+      "需转换格式"
+    ],
+    "errors": [
+      "Windows 10/11 找不到 XPS 查看器"
+    ]
+  },
+  {
+    "suffix": "ai",
+    "name": "矢量设计行业的标准格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/ai.md",
+    "tags": [
+      "图片",
+      "设计",
+      "矢量",
+      "位图"
+    ],
+    "description": "AI 是 Adobe Illustrator 的原生文件格式，是矢量设计行业的标准格式。和 PSD（位图）不同，AI 是纯矢量格式——里面的图形都是用数学路径描述的，可以无限放大而不失真，是 Logo 设计、插画、品牌设计的首选格式。",
+    "software": [
+      "Inkscape（支持导入）",
+      "GIMP（导入为位图）",
+      "Sumatra PDF（查看）",
+      "Inkscape",
+      "Sketch（部分支持）",
+      "Scribus（导入使用）"
+    ],
+    "errors": [
+      "打开 AI 文件提示\"缺少字体\""
+    ]
+  },
+  {
+    "suffix": "avif",
+    "name": "是一种基于视频编码",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/avif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "有损"
+    ],
+    "description": "AVIF 是 AV1 Image File Format 的缩写，是一种基于 AV1 视频编码技术开发的现代图片格式。它由开放媒体联盟（Alliance for Open Media）开发，目标是比 JPG 更小、比 PNG 支持透明、比 WebP 压缩率更高。",
+    "software": [
+      "现代浏览器（Chrome/Edge/Firefox）",
+      "ImageGlass",
+      "IrfanView（需插件）",
+      "预览（macOS 13+）",
+      "现代浏览器（Chrome/Firefox）",
+      "现代浏览器"
+    ],
+    "errors": [
+      "AVIF 图片在旧版软件中打不开"
+    ]
+  },
+  {
+    "suffix": "bmp",
+    "name": "位图",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/bmp.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "位图"
+    ],
+    "description": "BMP 是 位图（Bitmap）的缩写，是 Windows 系统的原生图片格式，也叫\"设备无关位图\"（DIB）。它的最大特点是不压缩，像素数据原封不动地保存，所以画质是无损的，但文件体积也非常大。",
+    "software": [
+      "照片",
+      "Edge 浏览器",
+      "照片 App",
+      "Safari",
+      "GIMP",
+      "Gwenview"
+    ],
+    "errors": [
+      "BMP 文件太大，占用空间多"
+    ]
+  },
+  {
+    "suffix": "cdr",
+    "name": "的原生文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/cdr.md",
+    "tags": [
+      "图片",
+      "设计",
+      "矢量"
+    ],
+    "description": "CDR 是 CorelDRAW 的原生文件格式，是加拿大 Corel 公司出品的矢量设计软件 CorelDRAW 的专有格式。它在印刷、广告、包装设计领域非常流行，尤其是在国内的广告公司和印刷厂中使用广泛。",
+    "software": [
+      "Inkscape（部分支持）",
+      "LibreOffice Draw（导入查看）",
+      "基本无原生免费支持",
+      "需转换格式查看",
+      "Inkscape（有限支持）",
+      "LibreOffice Draw"
+    ],
+    "errors": [
+      "CDR 文件打不开，提示\"文件损坏\"或\"无效文件\""
+    ]
+  },
+  {
+    "suffix": "gif",
+    "name": "图形交换格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/gif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "位图"
+    ],
+    "description": "GIF 是 图形交换格式（Graphics Interchange Format）的缩写，是一种支持动画的位图格式。它最大的特点就是能动——把多张图片按顺序播放，形成动画效果。虽然颜色只有 256 色，但凭借\"动图\"这个独门绝技，GIF 在互联网上长盛不衰。",
+    "software": [
+      "Edge 浏览器",
+      "照片 App（新版支持）",
+      "IrfanView",
+      "Safari",
+      "Chrome 浏览器",
+      "GIMP"
+    ],
+    "errors": [
+      "GIF 不动，变成了静态图片"
+    ]
+  },
+  {
+    "suffix": "ico",
+    "name": "图标文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/ico.md",
+    "tags": [
+      "图片",
+      "设计",
+      "位图"
+    ],
+    "description": "ICO 是 图标文件（Icon）的后缀名，是 Windows 系统专用的图标格式。它的特殊之处在于：一个 ICO 文件里可以包含多个不同尺寸和颜色深度的图标，系统会根据显示场景自动选择最合适的大小（比如桌面用大图标，任务栏用小图标）。",
+    "software": [
+      "画图（查看/简单编辑）",
+      "IcoFX 免费版",
+      "Icon Slate",
+      "GIMP（需插件）",
+      "Inkscape（导出为 ICO）"
+    ],
+    "errors": [
+      "ICO 图标显示模糊或有锯齿"
+    ]
+  },
+  {
+    "suffix": "jpg",
+    "name": "目前世界上最流行的图片格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/jpg.md",
+    "tags": [
+      "图片",
+      "设计",
+      "有损",
+      "位图"
+    ],
+    "description": "JPG（也写作 JPEG）是目前世界上最流行的图片格式，由联合图像专家组（Joint Photographic Experts Group）制定。它采用有损压缩算法，在保持较好视觉质量的同时大幅减小文件体积，特别适合照片和色彩丰富的图片。",
+    "software": [
+      "画图",
+      "Edge 浏览器",
+      "照片 App",
+      "Safari",
+      "Eye of GNOME",
+      "GIMP"
+    ],
+    "errors": [
+      "JPG 图片打不开，提示\"无法显示图片\"或\"文件损坏\""
+    ]
+  },
+  {
+    "suffix": "png",
+    "name": "便携式网络图形",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/png.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "位图"
+    ],
+    "description": "PNG 是 便携式网络图形（Portable Network Graphics）的缩写，是一种无损压缩的位图格式。它最大的特点是支持透明背景，而且压缩后不会损失画质，是网页设计和 UI 设计中最常用的格式之一。",
+    "software": [
+      "画图",
+      "Edge 浏览器",
+      "IrfanView",
+      "照片 App",
+      "Safari",
+      "Eye of GNOME"
+    ],
+    "errors": [
+      "PNG 透明背景变成了白色/黑色"
+    ]
+  },
+  {
+    "suffix": "psb",
+    "name": "是的大型文档格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/psb.md",
+    "tags": [
+      "图片",
+      "设计"
+    ],
+    "description": "PSB 是 Photoshop Big 的缩写，是 Adobe Photoshop 的大型文档格式。它和 .psd 几乎完全一样，唯一的区别是 PSB 支持更大的文件——最高可达 300,000 × 300,000 像素，文件大小几乎没有上限（只受硬盘限制），而 PSD 最大只能 2GB。",
+    "software": [
+      "GIMP（2.10+ 可导入，有限支持）",
+      "Photopea（在线，有限支持）",
+      "预览（可能无法打开大文件）",
+      "GIMP"
+    ],
+    "errors": [
+      "PSB 文件打不开，提示\"不支持此格式\""
+    ]
+  },
+  {
+    "suffix": "psd",
+    "name": "设计师最重要的工作文件格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/psd.md",
+    "tags": [
+      "图片",
+      "设计",
+      "矢量",
+      "位图"
+    ],
+    "description": "PSD 是 Photoshop Document 的缩写，是 Adobe Photoshop 的原生文件格式。它最大的特点是支持图层——一张图片可以由很多图层叠加而成，每个图层可以独立编辑，是设计师最重要的工作文件格式。",
+    "software": [
+      "GIMP（支持导入，图层部分支持）",
+      "Paint.NET（需插件）",
+      "Photopea（在线）",
+      "预览（只能查看，不能编辑图层）",
+      "GIMP",
+      "Krita"
+    ],
+    "errors": [
+      "PSD 文件太大，打开和保存都很慢"
+    ]
+  },
+  {
+    "suffix": "sketch",
+    "name": "应用程序的原生设计源文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/sketch.md",
+    "tags": [
+      "图片",
+      "设计",
+      "矢量"
+    ],
+    "description": "SKETCH 是 Sketch 应用程序的原生设计源文件格式。Sketch 是一款专为 UI/UX 设计打造的矢量设计工具，在 macOS 平台上非常流行，是很多设计师做界面设计的首选工具。",
+    "software": [
+      "Figma（在线，可导入 sketch）",
+      "Photopea（有限支持）",
+      "Sketch（30天免费试用）",
+      "Lunacy"
+    ],
+    "errors": [
+      "Windows 用户收到 .sketch 文件打不开"
+    ]
+  },
+  {
+    "suffix": "svg",
+    "name": "可缩放矢量图形",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/svg.md",
+    "tags": [
+      "图片",
+      "设计",
+      "文本",
+      "矢量",
+      "位图"
+    ],
+    "description": "SVG 是 可缩放矢量图形（Scalable Vector Graphics）的缩写，是一种基于 XML 的矢量图格式。和 JPG、PNG 这些位图不同，SVG 不是由像素组成的，而是用数学公式描述的图形——所以它可以无限放大，永远不会模糊。",
+    "software": [
+      "Chrome/Edge 浏览器",
+      "Notepad++（看代码）",
+      "Inkscape",
+      "Safari 浏览器",
+      "Chrome",
+      "预览（支持查看）"
+    ],
+    "errors": [
+      "SVG 文件在浏览器里能看，但导入设计软件后变形了"
+    ]
+  },
+  {
+    "suffix": "tif",
+    "name": "标签图像文件格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/tif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "位图"
+    ],
+    "description": "TIFF（也写作 TIF）是 标签图像文件格式（Tagged Image File Format）的缩写，是一种高质量的位图格式。它支持无损压缩，能保留最多的图像细节，是专业摄影、印刷出版、医学影像等领域的标准格式。",
+    "software": [
+      "画图",
+      "IrfanView",
+      "XnView MP",
+      "照片 App",
+      "GIMP",
+      "Gwenview"
+    ],
+    "errors": [
+      "TIFF 文件太大，占用空间多"
+    ]
+  },
+  {
+    "suffix": "webp",
+    "name": "谷歌推出的新一代图片格式",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/webp.md",
+    "tags": [
+      "图片",
+      "设计",
+      "无损",
+      "有损",
+      "位图"
+    ],
+    "description": "WebP 是谷歌（Google）推出的新一代图片格式，目标是在保持相同画质的前提下，让图片体积比 JPG 和 PNG 更小，从而让网页加载更快。它同时支持有损压缩和无损压缩，还支持透明背景和动画，是一个\"全能型\"的图片格式。",
+    "software": [
+      "Chrome/Edge 浏览器",
+      "新版照片 App（Win10+）",
+      "IrfanView（需插件）",
+      "Chrome 浏览器",
+      "预览（Monterey+ 支持）",
+      "Chrome/Firefox 浏览器"
+    ],
+    "errors": [
+      "WebP 图片打不开，显示不支持"
+    ]
+  },
+  {
+    "suffix": "xcf",
+    "name": "是开源图像编辑软件的原生文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/xcf.md",
+    "tags": [
+      "图片",
+      "设计",
+      "开源",
+      "矢量"
+    ],
+    "description": "XCF 是 eXperimental Computing Facility 的缩写，是开源图像编辑软件 GIMP 的原生文件格式。它就像 Photoshop 的 .psd 一样，保存了所有编辑信息——图层、通道、路径、文字、蒙版、选择区域等。",
+    "software": [
+      "GIMP",
+      "Paint.NET（需插件，有限支持）",
+      "Seashore（部分支持）",
+      "Krita（部分支持）"
+    ],
+    "errors": [
+      "XCF 文件在其他软件中打不开"
+    ]
+  },
+  {
+    "suffix": "3gp",
+    "name": "手机录像和彩信视频的主流格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/3gp.md",
+    "tags": [
+      "媒体",
+      "音视频"
+    ],
+    "description": "3GP 是一种为 3G 移动通信设计的视频容器格式，基于 MPEG-4 Part 14（MP4）标准简化而来。它专门针对早期手机设备优化，体积小、带宽需求低，在智能手机普及前（2003-2010年）是手机录像和彩信视频的主流格式。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "KMPlayer",
+      "MPlayerX",
+      "IINA",
+      "MPV"
+    ],
+    "errors": [
+      "3GP 文件在 Windows Media Player 中打不开"
+    ]
+  },
+  {
+    "suffix": "aiff",
+    "name": "是苹果公司在年开发的音频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/aiff.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "无损"
+    ],
+    "description": "AIFF 是 Audio Interchange File Format 的缩写，是苹果公司在 1988 年开发的音频文件格式。它和 WAV 类似，都是无压缩的线性 PCM 音频格式，音质很高但文件体积大。AIFF 一直是 Mac 平台上专业音频领域的常用格式。",
+    "software": [
+      "VLC 媒体播放器",
+      "Audacity",
+      "foobar2000",
+      "VLC",
+      "iTunes/音乐"
+    ],
+    "errors": [
+      "AIFF 文件太大，占满硬盘和手机存储"
+    ]
+  },
+  {
+    "suffix": "ass",
+    "name": "功能强大的高级字幕格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/ass.md",
+    "tags": [
+      "媒体",
+      "音视频"
+    ],
+    "description": "ASS（全称 Advanced SubStation Alpha，高级阿尔法字幕站）是一种功能强大的高级字幕格式。它不仅能记录字幕文字和时间，还能定义字体、颜色、大小、位置、动画效果等丰富的样式。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "MPC-HC + xy-VSFilter",
+      "Aegisub",
+      "VLC",
+      "IINA"
+    ],
+    "errors": [
+      "ASS 字幕显示的字体和预期不一样",
+      "ASS 字幕特效不显示或显示错误",
+      "ASS 字幕乱码"
+    ]
+  },
+  {
+    "suffix": "avi",
+    "name": "微软在年推出的一种多媒体容器",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/avi.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "无损",
+      "流媒体"
+    ],
+    "description": "AVI（全称 Audio Video Interleave，音频视频交错格式）是微软在 1992 年推出的一种多媒体容器格式。它是 Windows 平台上最早的视频格式之一，曾经非常流行。",
+    "software": [
+      "PotPlayer",
+      "VLC 媒体播放器",
+      "QQ 影音",
+      "IINA",
+      "Movist",
+      "MPV"
+    ],
+    "errors": [
+      "AVI 文件无法播放，提示\"缺少解码器\"",
+      "AVI 文件播放只有声音没有画面",
+      "AVI 文件太大，占用太多空间"
+    ]
+  },
+  {
+    "suffix": "flac",
+    "name": "开源的无损音频压缩格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/flac.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "开源",
+      "无损"
+    ],
+    "description": "FLAC（全称 Free Lossless Audio Codec，免费无损音频编码）是一种开源的无损音频压缩格式。它可以在不损失任何音质的前提下，把音频文件压缩到原来的 50%-60%。",
+    "software": [
+      "Foobar2000（推荐）",
+      "网易云音乐",
+      "QQ音乐",
+      "Audacity",
+      "VLC",
+      "Cog"
+    ],
+    "errors": [
+      "iPhone/iPad 无法播放 FLAC 文件",
+      "FLAC 文件在车载音响上播放不了",
+      "FLAC 文件播放有杂音或爆音"
+    ]
+  },
+  {
+    "suffix": "flv",
+    "name": "公司推出的一种流媒体视频格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/flv.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "流媒体"
+    ],
+    "description": "FLV（全称 Flash Video）是 Adobe 公司推出的一种流媒体视频格式，曾经是网页视频的绝对主流。随着 HTML5 的普及和 Flash 的退役，FLV 已经逐渐退出历史舞台，但网上仍有大量存量资源。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "QQ 影音",
+      "暴风影音",
+      "IINA",
+      "Movist"
+    ],
+    "errors": [
+      "FLV 文件在浏览器中无法播放",
+      "FLV 文件播放花屏或绿屏",
+      "FLV 文件只有声音没有图像"
+    ]
+  },
+  {
+    "suffix": "lrc",
+    "name": "歌词文件格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/lrc.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "文本"
+    ],
+    "description": "LRC（全称 LyRiCs，歌词）是一种歌词文件格式，主要用于音乐播放器同步显示歌词。它的格式和 SRT 类似，但更简单，专门为歌词设计。",
+    "software": [
+      "记事本",
+      "Notepad++",
+      "网易云音乐",
+      "QQ音乐",
+      "Foobar2000",
+      "迷你歌词"
+    ],
+    "errors": [
+      "LRC 歌词不显示或不同步",
+      "LRC 歌词显示乱码",
+      "手机音乐 App 不显示本地 LRC 歌词"
+    ]
+  },
+  {
+    "suffix": "m3u",
+    "name": "播放列表文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/m3u.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "文本",
+      "流媒体"
+    ],
+    "description": "M3U 是一种播放列表文件，本身不包含任何音视频数据，而是一个文本文件，里面记录了一系列媒体文件的路径或网络地址。播放器读取 M3U 文件后，会按列表中的顺序依次播放对应的音视频。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "Windows Media Player",
+      "QuickTime Player",
+      "IINA",
+      "MPV"
+    ],
+    "errors": [
+      "M3U8 直播流无法播放，黑屏或加载失败"
+    ]
+  },
+  {
+    "suffix": "m4a",
+    "name": "是一种基于标准的音频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/m4a.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "无损",
+      "流媒体"
+    ],
+    "description": "M4A 是 MPEG-4 Audio 的缩写，是一种基于 MPEG-4 标准的音频文件格式。它通常使用 AAC（Advanced Audio Coding，高级音频编码）编码，所以也常被称为 AAC 格式。",
+    "software": [
+      "iTunes（Apple 官方）",
+      "网易云音乐",
+      "QQ音乐",
+      "Foobar2000",
+      "VLC",
+      "QuickTime Player"
+    ],
+    "errors": [
+      "Windows 电脑无法播放 M4A 文件",
+      "M4A 文件导入 Audacity 失败",
+      "M4A 文件在安卓手机上播放不了"
+    ]
+  },
+  {
+    "suffix": "mkv",
+    "name": "一种开源免费的多媒体容器",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mkv.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "开源",
+      "无损"
+    ],
+    "description": "MKV（全称 Matroska Video）是一种开源、免费的多媒体容器格式。Matroska 在俄语中是\"套娃\"的意思，形象地说明了它的特点——一个文件里可以\"套\"多个视频轨、音频轨、字幕轨和菜单。",
+    "software": [
+      "PotPlayer",
+      "VLC 媒体播放器",
+      "MPC-HC",
+      "QQ 影音",
+      "IINA",
+      "Movist"
+    ],
+    "errors": [
+      "MKV 文件播放卡顿或音画不同步",
+      "MKV 字幕显示乱码或不显示",
+      "MKV 文件无法在电视/手机上播放"
+    ]
+  },
+  {
+    "suffix": "mov",
+    "name": "公司开发的视频格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mov.md",
+    "tags": [
+      "媒体",
+      "音视频"
+    ],
+    "description": "MOV 是 Apple 公司开发的 QuickTime 视频格式，全称 QuickTime Movie。它和 MP4 一样使用 MPEG-4 编码标准，两者关系非常密切，可以说是\"近亲\"。",
+    "software": [
+      "QuickTime Player（Apple 官方）",
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "VLC",
+      "IINA",
+      "MPV"
+    ],
+    "errors": [
+      "Windows 电脑播放 MOV 只有声音没画面",
+      "MOV 文件导入剪辑软件失败或卡顿",
+      "iPhone 录制的 MOV 视频在 Windows 上倒着播放"
+    ]
+  },
+  {
+    "suffix": "mp3",
+    "name": "有损音频压缩格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mp3.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "有损"
+    ],
+    "description": "MP3（全称 MPEG-1 Audio Layer 3）是世界上最流行的有损音频压缩格式。它的出现彻底改变了人们听音乐的方式，让数字音乐得以普及。",
+    "software": [
+      "网易云音乐",
+      "QQ音乐",
+      "Foobar2000",
+      "VLC",
+      "Audacity",
+      "Rhythmbox"
+    ],
+    "errors": [
+      "MP3 文件无法播放，提示\"文件已损坏\"",
+      "MP3 文件在车载/音响上播放不了",
+      "MP3 歌曲信息（歌手/歌名/封面）显示乱码"
+    ]
+  },
+  {
+    "suffix": "mp4",
+    "name": "非常流行的数字多媒体容器格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mp4.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "流媒体"
+    ],
+    "description": "MP4（全称 MPEG-4 Part 14）是一种非常流行的数字多媒体容器格式，可以同时存储视频、音频、字幕甚至静态图像。它是目前世界上使用最广泛的视频格式之一。",
+    "software": [
+      "PotPlayer",
+      "VLC 媒体播放器",
+      "QQ 影音",
+      "IINA",
+      "MPV",
+      "Totem（GNOME 自带）"
+    ],
+    "errors": [
+      "MP4 文件无法播放，提示\"格式不支持\"",
+      "MP4 文件损坏，播放到一半卡住或花屏",
+      "视频有画面没声音，或有声音没画面"
+    ]
+  },
+  {
+    "suffix": "rm",
+    "name": "网络音乐和在线电台的主流格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/rm.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "流媒体"
+    ],
+    "description": "RM（RealMedia，又称 RealAudio）是 RealNetworks 公司开发的流媒体音频/视频格式，主要用于音频流媒体播放。在 2000 年代初期，RM 格式是网络音乐和在线电台的主流格式之一，因为它能在极低的码率下实现流畅的音频播放，非常适合拨号上网时代的网络环境。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "千千静听（老版本）",
+      "IINA",
+      "MPV",
+      "MPlayer"
+    ],
+    "errors": [
+      "RM 文件无法播放，提示格式不支持",
+      "RM 转 MP3 后音质很差",
+      "批量 RM 文件转换太慢"
+    ]
+  },
+  {
+    "suffix": "rmvb",
+    "name": "公司开发的一种流媒体视频格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/rmvb.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "流媒体"
+    ],
+    "description": "RMVB（RealMedia Variable Bitrate，可变比特率 RealMedia 格式）是 RealNetworks 公司开发的一种流媒体视频格式，是 RM 格式的改进版。它在 2000 年代初期非常流行，尤其是在华语互联网影视分享领域，因为它能在较低的码率下提供相对不错的画质，非常适合当时带宽有限的网络环境。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "QQ 影音",
+      "暴风影音（老版本）",
+      "IINA（需安装解码器）",
+      "MPV"
+    ],
+    "errors": [
+      "RMVB 文件无法播放，提示\"不支持的格式\"",
+      "播放 RMVB 只有声音没有画面",
+      "RMVB 转 MP4 后画质变差"
+    ]
+  },
+  {
+    "suffix": "srt",
+    "name": "字幕文件格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/srt.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "文本"
+    ],
+    "description": "SRT（全称 SubRip Text）是最流行、最简单的字幕文件格式。它是一种纯文本格式，记录了每一条字幕的开始时间、结束时间和字幕内容。",
+    "software": [
+      "Notepad++",
+      "Subtitle Edit",
+      "VLC 播放器",
+      "TextMate",
+      "VLC",
+      "IINA"
+    ],
+    "errors": [
+      "SRT 字幕显示乱码",
+      "字幕和声音对不上（字幕太快或太慢）",
+      "视频播放器不显示字幕"
+    ]
+  },
+  {
+    "suffix": "vob",
+    "name": "是视频光盘的核心文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/vob.md",
+    "tags": [
+      "媒体",
+      "音视频"
+    ],
+    "description": "VOB 是 Video Object 的缩写，是 DVD 视频光盘的核心文件格式。它包含了 DVD 中的视频、音频、字幕和菜单数据。当你把一张 DVD 光盘放进电脑查看时，会在 `VIDEO_TS` 文件夹中看到一系列 .vob 文件。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "KMPlayer",
+      "IINA",
+      "MPlayerX",
+      "MPV"
+    ],
+    "errors": [
+      "VOB 文件只有部分播放，菜单导航不工作"
+    ]
+  },
+  {
+    "suffix": "wav",
+    "name": "微软和联合开发的一种无损音频格式",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/wav.md",
+    "tags": [
+      "媒体",
+      "音视频",
+      "无损"
+    ],
+    "description": "WAV（全称 Waveform Audio File Format，波形音频文件格式）是微软和 IBM 联合开发的一种无损音频格式。它直接存储声音的波形数据，不经过任何压缩，因此音质是最好的，但文件体积也最大。",
+    "software": [
+      "Groove 音乐",
+      "Foobar2000",
+      "Audacity",
+      "VLC",
+      "Music",
+      "Rhythmbox"
+    ],
+    "errors": [
+      "WAV 文件无法播放，提示\"格式不支持\"",
+      "WAV 文件太大，占用太多空间",
+      "WAV 文件损坏，播放有杂音或中断"
+    ]
+  },
+  {
+    "suffix": "7z",
+    "name": "开源免费的高压缩率格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/7z.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "开源",
+      "加密",
+      "跨平台"
+    ],
+    "description": "7z 是 7-Zip 软件使用的压缩格式，是一种开源免费的高压缩率格式。它使用 LZMA 和 LZMA2 压缩算法，压缩率通常比 ZIP 和 RAR 更高，而且完全免费、没有专利限制。",
+    "software": [
+      "7-Zip（官方推荐）",
+      "Bandizip",
+      "PeaZip",
+      "Keka",
+      "The Unarchiver",
+      "7-Zip（命令行版）"
+    ],
+    "errors": [
+      "7z 文件损坏，无法解压",
+      "7z 解压速度特别慢",
+      "解压后文件名乱码"
+    ]
+  },
+  {
+    "suffix": "arj",
+    "name": "古老的压缩文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/arj.md",
+    "tags": [
+      "压缩",
+      "打包"
+    ],
+    "description": "ARJ（Archived by Robert Jung）是一种古老的压缩文件格式，由奥地利程序员 Robert K. Jung 在 1990 年代初开发。在 DOS 和 Windows 3.x 时代，ARJ 曾经是非常流行的压缩格式之一，与 PKZIP（ZIP 格式）、LZH 等齐名。它以其出色的压缩率和丰富的功能（如分卷压缩、多卷归档、自解压等）而闻名。",
+    "software": [
+      "7-Zip",
+      "WinRAR（支持解压）",
+      "PeaZip",
+      "Bandizip",
+      "Keka",
+      "The Unarchiver"
+    ],
+    "errors": [
+      "ARJ 文件无法解压，提示\"不支持的格式\"或损坏",
+      "解压后文件名乱码",
+      "不知道这是什么格式，以为是压缩包但打不开"
+    ]
+  },
+  {
+    "suffix": "bz2",
+    "name": "无损数据压缩格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/bz2.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "无损"
+    ],
+    "description": "BZ2（全称 Bzip2）是一种无损数据压缩格式，由 Julian Seward 开发。它的压缩率比 gzip 更高，但压缩和解压速度也更慢。在 Linux 世界中，bzip2 是仅次于 gzip 的第二常用压缩格式。",
+    "software": [
+      "7-Zip",
+      "Bandizip",
+      "PeaZip",
+      "WinRAR",
+      "Keka",
+      "The Unarchiver"
+    ],
+    "errors": [
+      "bzip2: Data integrity error when decompressing",
+      "bzip2 解压速度特别慢",
+      "bzip2: Can't open input file: No such file or directory"
+    ]
+  },
+  {
+    "suffix": "cab",
+    "name": "微软开发的一种压缩归档文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/cab.md",
+    "tags": [
+      "压缩",
+      "打包"
+    ],
+    "description": "CAB 是 Windows Cabinet 的缩写，是微软开发的一种压缩归档文件格式。它主要用于 Windows 系统的软件安装包、系统组件更新和驱动程序打包。很多 Windows 系统更新（Windows Update）和驱动安装包内部都使用 CAB 格式。",
+    "software": [
+      "7-Zip",
+      "PeaZip",
+      "The Unarchiver（部分支持）",
+      "7-Zip（命令行）",
+      "cabextract（命令行工具）"
+    ],
+    "errors": [
+      "安装 cab 补丁时 DISM 报错 0x800f081f"
+    ]
+  },
+  {
+    "suffix": "gz",
+    "name": "系统中最常用的压缩格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/gz.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "开源",
+      "无损"
+    ],
+    "description": "GZ（全称 Gzip，GNU zip）是 Linux/Unix 系统中最常用的压缩格式之一，由 Jean-loup Gailly 和 Mark Adler 开发。它通常和 tar 搭配使用，形成 .tar.gz（或 .tgz）组合，是 Linux 世界最经典的压缩格式。",
+    "software": [
+      "7-Zip",
+      "Bandizip",
+      "PeaZip",
+      "WinRAR",
+      "Keka",
+      "The Unarchiver"
+    ],
+    "errors": [
+      "gzip: stdin: not in gzip format",
+      "tar.gz 解压失败，提示\"意外结束文件\"",
+      "解压后文件名乱码"
+    ]
+  },
+  {
+    "suffix": "iso",
+    "name": "光盘镜像文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/iso.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "跨平台"
+    ],
+    "description": "ISO（全称 ISO 9660，简称 ISO Image）是一种光盘镜像文件格式。它完整地复制了 CD、DVD、蓝光光盘的所有数据，包括文件系统、引导信息、音频轨道等。你可以把它理解为一张\"电子版的光盘\"。",
+    "software": [
+      "文件资源管理器（Win10/11 自带挂载）",
+      "7-Zip",
+      "Virtual CloneDrive",
+      "Daemon Tools Lite",
+      "DiskImageMounter",
+      "mount 命令"
+    ],
+    "errors": [
+      "ISO 文件挂载后打开是空的或文件不完整",
+      "用 ISO 制作的 U 盘无法启动",
+      "ISO 文件太大，无法刻录到光盘"
+    ]
+  },
+  {
+    "suffix": "rar",
+    "name": "流行的私有压缩文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/rar.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "加密"
+    ],
+    "description": "RAR 是一种流行的私有压缩文件格式，由俄罗斯程序员 Eugene Roshal 开发（RAR 是 Roshal ARchive 的缩写）。它以高压缩率和丰富的功能著称，尤其在分卷压缩和数据恢复方面表现出色。",
+    "software": [
+      "7-Zip",
+      "Bandizip",
+      "PeaZip",
+      "WinRAR（免费试用）",
+      "The Unarchiver",
+      "Keka"
+    ],
+    "errors": [
+      "RAR 文件解压失败，提示\"CRC 校验失败\"或\"文件已损坏\"",
+      "分卷 RAR 解压失败，提示\"找不到下一个分卷\"",
+      "RAR 密码忘记了怎么办"
+    ]
+  },
+  {
+    "suffix": "tar",
+    "name": "把多个文件和文件",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/tar.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "开源",
+      "跨平台"
+    ],
+    "description": "TAR（全称 Tape Archive，磁带归档）是 Linux/Unix 系统中最经典的打包格式。它的作用是把多个文件和文件夹\"打包\"成一个文件，但本身不进行压缩——所以 tar 文件的体积和原文件差不多大。",
+    "software": [
+      "7-Zip",
+      "Bandizip",
+      "PeaZip",
+      "WinRAR",
+      "Keka",
+      "The Unarchiver"
+    ],
+    "errors": [
+      "tar 解压时提示\"权限不够\"",
+      "tar 解压后文件名乱码",
+      "tar: 从成员名中删除开头的\"/\""
+    ]
+  },
+  {
+    "suffix": "xz",
+    "name": "高压缩率的压缩文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/xz.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "二进制"
+    ],
+    "description": "XZ 是一种高压缩率的压缩文件格式，使用 LZMA/LZMA2 算法。它的特点是压缩率非常高（通常比 .zip 和 .gz 更小），但压缩速度较慢。XZ 在 Linux/Unix 世界非常流行，常用于压缩源代码、软件包和 tar 归档（.tar.xz）。",
+    "software": [
+      "7-Zip",
+      "PeaZip",
+      "WinRAR（6.10+）",
+      "Lzip",
+      "The Unarchiver",
+      "Keka"
+    ],
+    "errors": [
+      "Windows 上打不开 .xz 文件"
+    ]
+  },
+  {
+    "suffix": "zip",
+    "name": "压缩文件格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/zip.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "加密",
+      "跨平台"
+    ],
+    "description": "ZIP 是世界上最流行的压缩文件格式，由 Phil Katz 于 1989 年创建。它可以将一个或多个文件压缩成一个 .zip 文件，减小体积的同时保持文件完整。",
+    "software": [
+      "7-Zip",
+      "Bandizip",
+      "PeaZip",
+      "The Unarchiver",
+      "Keka",
+      "unzip 命令"
+    ],
+    "errors": [
+      "ZIP 文件损坏，无法解压",
+      "解压后文件名乱码",
+      "ZIP 密码忘记了怎么办"
+    ]
+  },
+  {
+    "suffix": "zst",
+    "name": "压缩格式",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/zst.md",
+    "tags": [
+      "压缩",
+      "打包",
+      "开源"
+    ],
+    "description": "ZST 是 Zstandard 压缩格式的文件扩展名，由 Facebook（现 Meta）开发并于 2015 年开源。它的目标是同时实现高压缩率和快速度——压缩率接近 .xz，但速度远超 .xz 和 .gz。",
+    "software": [
+      "7-Zip（21.07+）",
+      "PeaZip（9.9+）",
+      "zstd 命令行工具",
+      "The Unarchiver",
+      "Keka",
+      "zstd（Homebrew 安装）"
+    ],
+    "errors": [
+      "Windows 上打不开 .zst 文件"
+    ]
+  },
+  {
+    "suffix": "bat",
+    "name": "batch（批处理）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/bat.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".bat 是 batch（批处理） 的缩写，是 Windows 系统下的批处理脚本文件。它包含一系列 DOS/Windows 命令，按顺序逐行执行。",
+    "software": [
+      "Notepad++",
+      "TextMate",
+      "VS Code",
+      "Gedit",
+      "Vim"
+    ],
+    "errors": [
+      "双击 .bat 文件一闪而过，看不到输出",
+      "中文显示乱码",
+      "提示\"不是内部或外部命令，也不是可运行的程序\""
+    ]
+  },
+  {
+    "suffix": "bin",
+    "name": "binary（二进制）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/bin.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "二进制"
+    ],
+    "description": ".bin 是 binary（二进制） 的缩写，是一个通用的二进制文件后缀。它可以表示任何类型的二进制数据，可能是可执行程序，也可能是数据文件。",
+    "software": [
+      "7-Zip",
+      "Daemon Tools Lite",
+      "HxD",
+      "The Unarchiver",
+      "终端（file 命令）",
+      "7z"
+    ],
+    "errors": [
+      "双击 .bin 文件打不开",
+      "虚拟光驱加载失败，提示不是有效的镜像",
+      "Linux 下运行 .bin 提示 \"cannot execute binary file\""
+    ]
+  },
+  {
+    "suffix": "cmd",
+    "name": "command（命令）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/cmd.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".cmd 是 command（命令） 的缩写，是 Windows NT 系统引入的命令脚本文件格式。它和 .bat 非常相似，都是由一系列 Windows 命令组成的脚本文件。",
+    "software": [
+      "Notepad++",
+      "VS Code",
+      "TextMate",
+      "Gedit",
+      "Vim"
+    ],
+    "errors": [
+      "运行脚本时提示\"拒绝访问\"",
+      "脚本执行后没有预期效果",
+      "set 命令设置的变量不生效"
+    ]
+  },
+  {
+    "suffix": "com",
+    "name": "可执行格式",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/com.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": "COM 是 Command 的缩写，是一种源自 MS-DOS 时代的可执行文件格式。.com 文件是最简单的可执行格式之一——整个文件就是一段可以直接加载到内存运行的机器代码，没有复杂的头部结构和段管理。",
+    "software": [
+      "DOSBox",
+      "DOSEMU"
+    ],
+    "errors": [
+      "64 位 Windows 上双击 .com 提示\"不支持此版本\""
+    ]
+  },
+  {
+    "suffix": "exe",
+    "name": "executable（可执行）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/exe.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".exe 是 executable（可执行） 的缩写，是 Windows 操作系统中最常见的可执行程序文件格式。",
+    "software": [
+      "Wine",
+      "CrossOver"
+    ],
+    "errors": [
+      "双击 .exe 没反应或闪退",
+      "提示\"不是有效的 Win32 应用程序\"",
+      "Windows 已保护你的电脑，SmartScreen 阻止了未知应用"
+    ]
+  },
+  {
+    "suffix": "lnk",
+    "name": "link（链接）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/lnk.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".lnk 是 link（链接） 的缩写，是 Windows 系统中的快捷方式文件。它本身不包含实际数据，只是一个指向其他文件、文件夹或程序的\"指针\"。",
+    "software": [
+      "不支持（Mac 使用 .alias 替身文件）",
+      "不支持（Linux 使用 .desktop 文件）"
+    ],
+    "errors": [
+      "双击快捷方式提示\"该快捷方式所指向的项目已经更改或移动\"",
+      "快捷方式图标变成白色/未知图标",
+      "快捷方式无法设置管理员权限"
+    ]
+  },
+  {
+    "suffix": "out",
+    "name": "output（输出）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/out.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".out 是 output（输出） 的缩写，是 Unix/Linux 系统下 C/C++ 编译器默认生成的可执行文件的默认名称。最常见的是 `a.out`（assembler output），这是一个历史悠久的命名传统。",
+    "software": [
+      "不支持（需在 Linux/MinGW 环境）",
+      "Xcode 命令行工具",
+      "GCC"
+    ],
+    "errors": [
+      "编译后找不到 a.out 文件",
+      "运行时提示 \"Permission denied\"",
+      "提示 \"cannot execute binary file: Exec format error\""
+    ]
+  },
+  {
+    "suffix": "run",
+    "name": "系统中常见的一种自解压安装包",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/run.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "开源",
+      "二进制",
+      "跨平台"
+    ],
+    "description": ".run 是 Linux 系统中常见的一种自解压安装包格式。它本质上是一个 Shell 脚本加上二进制数据的组合，可以自动解压并执行安装程序。",
+    "software": [
+      "不支持（需在 Linux 环境运行）",
+      "不支持（Mac 使用 .dmg/.pkg 格式）"
+    ],
+    "errors": [
+      "提示 \"Permission denied\"（权限不足）",
+      "提示 \"cannot execute binary file\" 或架构不兼容",
+      "图形界面安装程序无法显示"
+    ]
+  },
+  {
+    "suffix": "scr",
+    "name": "是系统的屏幕保护程序文件",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/scr.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": "SCR 是 Screen Saver 的缩写，是 Windows 系统的屏幕保护程序文件。虽然它本质上是一个标准的 Windows 可执行文件（PE 格式，和 .exe 内部结构一样），但 Windows 会对 .scr 文件做特殊处理——在屏幕保护设置中可以选择它作为屏保。",
+    "software": [
+      "不适用（Mac 使用 .saver 格式）"
+    ],
+    "errors": [
+      "双击 .scr 文件没反应或一闪而过"
+    ]
+  },
+  {
+    "suffix": "sh",
+    "name": "shell（壳）",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/sh.md",
+    "tags": [
+      "可执行",
+      "系统"
+    ],
+    "description": ".sh 是 shell（壳） 的缩写，是 Unix/Linux/Mac 系统下的 Shell 脚本文件。它包含一系列 Shell 命令，类似于 Windows 下的 .bat 批处理文件。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "Git Bash",
+      "TextMate",
+      "Vim",
+      "Gedit"
+    ],
+    "errors": [
+      "提示 \"Permission denied\"（权限不足）",
+      "提示 \"bad interpreter: No such file or directory\"",
+      "提示 \"command not found\"（命令未找到）"
+    ]
+  },
+  {
+    "suffix": "c",
+    "name": "C 语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/c.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".c 是 C 语言的源代码文件后缀。C 语言是最经典的编程语言之一，诞生于 1972 年，至今仍然广泛使用。",
+    "software": [
+      "VS Code",
+      "Dev-C++",
+      "Code::Blocks",
+      "Vim",
+      "Gedit"
+    ],
+    "errors": [
+      "提示 \"gcc 不是内部或外部命令\"",
+      "提示 \"undefined reference to ...\"",
+      "提示 \"segmentation fault\"（段错误）"
+    ]
+  },
+  {
+    "suffix": "class",
+    "name": "编译后的字节码文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/class.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".class 是 Java 编译后的字节码文件。当你用 `javac` 编译 .java 源文件时，编译器会生成对应的 .class 文件，里面包含的是 Java 虚拟机（JVM）可以执行的字节码指令。",
+    "software": [
+      "Java（运行用）",
+      "JD-GUI",
+      "VS Code + 反编译插件",
+      "VS Code"
+    ],
+    "errors": [
+      "提示 \"Could not find or load main class\"",
+      "提示 \"UnsupportedClassVersionError\"",
+      "提示 \"NoClassDefFoundError\" 或 \"ClassNotFoundException\""
+    ]
+  },
+  {
+    "suffix": "cpp",
+    "name": "功能强大的系统级编程语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/cpp.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".cpp 是 C++ 编程语言的源代码文件后缀。C++ 是在 C 语言基础上扩展而来的，增加了面向对象、泛型编程等特性，是一种功能强大的系统级编程语言。",
+    "software": [
+      "VS Code",
+      "Dev-C++",
+      "Code::Blocks",
+      "Vim"
+    ],
+    "errors": [
+      "提示 \"g++ 不是内部或外部命令\"",
+      "提示 \"expected ';' before ...\" 或语法错误",
+      "提示 \"No such file or directory\" 头文件找不到"
+    ]
+  },
+  {
+    "suffix": "css",
+    "name": "Cascading Style Sheets（层叠样式表）",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/css.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".css 是 Cascading Style Sheets（层叠样式表） 的缩写，是用于描述网页外观和样式的语言。如果说 HTML 是网页的骨架和内容，CSS 就是网页的衣服和化妆品。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "TextMate",
+      "Gedit"
+    ],
+    "errors": [
+      "CSS 样式不生效，网页还是默认样式",
+      "样式被覆盖，设置的属性不生效",
+      "页面布局错乱，元素位置不对"
+    ]
+  },
+  {
+    "suffix": "h",
+    "name": "header（头文件）",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/h.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".h 是 header（头文件） 的缩写，是 C/C++ 语言中的头文件。头文件通常包含函数声明、类定义、宏定义、常量定义等，供其他源文件引用。",
+    "software": [
+      "VS Code",
+      "Dev-C++",
+      "Notepad++",
+      "Xcode",
+      "TextMate",
+      "Vim"
+    ],
+    "errors": [
+      "提示 \"No such file or directory\" 找不到头文件",
+      "提示 \"multiple definition of ...\" 多重定义",
+      "提示 \"expected declaration specifiers before ...\""
+    ]
+  },
+  {
+    "suffix": "html",
+    "name": "网页的标准文件格式",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/html.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".html 是 HyperText Markup Language（超文本标记语言） 的缩写，是网页的标准文件格式。HTML 文件定义了网页的结构和内容，是万维网的基础。",
+    "software": [
+      "Chrome",
+      "Edge",
+      "Firefox（查看）",
+      "VS Code",
+      "Notepad++",
+      "Safari"
+    ],
+    "errors": [
+      "网页显示乱码（中文变成一堆奇怪符号）",
+      "图片显示不出来（显示一个小叉或占位符）",
+      "CSS 样式或 JS 脚本不生效"
+    ]
+  },
+  {
+    "suffix": "ini",
+    "name": "initialization（初始化）",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/ini.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".ini 是 initialization（初始化） 的缩写，是一种传统的配置文件格式。INI 文件结构简单，由节（section）和键值对组成，常用于 Windows 系统和早期软件的配置。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "TextEdit",
+      "Gedit",
+      "Vim"
+    ],
+    "errors": [
+      "读取不到配置值，返回空或默认值",
+      "中文显示乱码",
+      "值中有等号或特殊字符解析错误"
+    ]
+  },
+  {
+    "suffix": "java",
+    "name": "跨平台的面向对象编程语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/java.md",
+    "tags": [
+      "编程",
+      "代码",
+      "跨平台"
+    ],
+    "description": ".java 是 Java 编程语言的源代码文件后缀。Java 是一种跨平台的面向对象编程语言，以\"一次编写，到处运行\"（Write Once, Run Anywhere）著称。",
+    "software": [
+      "VS Code",
+      "IntelliJ IDEA Community",
+      "Eclipse",
+      "Vim"
+    ],
+    "errors": [
+      "提示 \"'javac' 不是内部或外部命令\"",
+      "提示 \"Could not find or load main class\""
+    ]
+  },
+  {
+    "suffix": "js",
+    "name": "网页的脚本语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/js.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".js 是 JavaScript 编程语言的源代码文件后缀。JavaScript 是网页的脚本语言，最初是为了给网页添加交互功能而设计的，现在已经发展成一种全能的编程语言。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "TextMate",
+      "Vim",
+      "Gedit"
+    ],
+    "errors": [
+      "提示 \"Uncaught ReferenceError: xxx is not defined\"",
+      "Node.js 中提示 \"Cannot find module 'xxx'\""
+    ]
+  },
+  {
+    "suffix": "json",
+    "name": "轻量级的数据交换格式",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/json.md",
+    "tags": [
+      "编程",
+      "代码",
+      "文本"
+    ],
+    "description": ".json 是 JavaScript Object Notation（JavaScript 对象表示法） 的缩写，是一种轻量级的数据交换格式。它以纯文本形式存储和表示数据，易于阅读和编写，也易于机器解析和生成。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "记事本",
+      "TextEdit",
+      "Vim",
+      "Gedit"
+    ],
+    "errors": [
+      "提示 \"Unexpected token ... in JSON at position ...\"",
+      "中文显示为 \\uXXXX 编码",
+      "JSON 文件太大，打开卡顿"
+    ]
+  },
+  {
+    "suffix": "py",
+    "name": "编程语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/py.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".py 是 Python 编程语言的源代码文件后缀。Python 是一种简单易学、功能强大的编程语言，广泛应用于各个领域。",
+    "software": [
+      "VS Code",
+      "PyCharm Community",
+      "IDLE（Python 自带）",
+      "IDLE",
+      "Vim"
+    ],
+    "errors": [
+      "提示 \"python 不是内部或外部命令\"",
+      "提示 \"ModuleNotFoundError: No module named 'xxx'\"",
+      "提示 \"SyntaxError: invalid syntax\""
+    ]
+  },
+  {
+    "suffix": "sql",
+    "name": "用于操作关系型数据库的编程语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/sql.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".sql 是 Structured Query Language（结构化查询语言） 的缩写，是用于操作关系型数据库的编程语言。.sql 文件就是保存 SQL 语句的文本文件。",
+    "software": [
+      "VS Code",
+      "MySQL Workbench",
+      "DBeaver Community",
+      "Notepad++"
+    ],
+    "errors": [
+      "提示 \"Table 'xxx' doesn't exist\" 表不存在",
+      "提示 \"Column 'xxx' doesn't exist\" 字段不存在",
+      "提示 \"Syntax error\" SQL 语法错误"
+    ]
+  },
+  {
+    "suffix": "xml",
+    "name": "用于标记电子文件使其具有结构性的标记语言",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/xml.md",
+    "tags": [
+      "编程",
+      "代码",
+      "矢量"
+    ],
+    "description": ".xml 是 eXtensible Markup Language（可扩展标记语言） 的缩写，是一种用于标记电子文件使其具有结构性的标记语言。XML 被设计用来传输和存储数据。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "XML Notepad",
+      "TextEdit",
+      "Vim",
+      "XML Copy Editor"
+    ],
+    "errors": [
+      "提示 \"XML Parsing Error: mismatched tag\"",
+      "提示 \"Invalid XML: Content is not allowed in prolog\"",
+      "特殊字符导致解析错误"
+    ]
+  },
+  {
+    "suffix": "yaml",
+    "name": "人类可读性高的数据序列化格式",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/yaml.md",
+    "tags": [
+      "编程",
+      "代码"
+    ],
+    "description": ".yaml（也常用 .yml）是 YAML Ain't Markup Language 的递归缩写，是一种人类可读性高的数据序列化格式。YAML 的设计目标是容易阅读和编写，适合做配置文件。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "TextMate",
+      "Vim"
+    ],
+    "errors": [
+      "数字字符串被自动解析为数字",
+      "特殊字符导致解析错误"
+    ]
+  },
+  {
+    "suffix": "cache",
+    "name": "程序为了加速访问而保存的中间数据文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/cache.md",
+    "tags": [
+      "配置",
+      "数据"
+    ],
+    "description": "Cache（缓存）文件是程序为了加速访问而保存的中间数据文件。当程序需要重复读取某些数据时，会先把数据存到缓存文件里，下次需要时直接从缓存读取，而不用重新计算或从网络/数据库加载，从而大大提高速度。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "HxD（十六进制编辑器）",
+      "SQLite Studio",
+      "TextEdit",
+      "Hex Fiend"
+    ],
+    "errors": [
+      "缓存占用空间太大，磁盘快满了"
+    ]
+  },
+  {
+    "suffix": "config",
+    "name": "通用配置文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/config.md",
+    "tags": [
+      "配置",
+      "数据",
+      "文本"
+    ],
+    "description": ".config 是一个通用配置文件后缀，并不是一种特定的文件格式。不同的软件可能使用完全不同的 .config 文件格式——有的是 XML，有的是 JSON，有的是纯文本键值对，有的是类 INI 格式。",
+    "software": [
+      "VS Code",
+      "记事本",
+      "Notepad++",
+      "SharpDevelop",
+      "TextEdit",
+      "CotEditor"
+    ],
+    "errors": [
+      ".NET 程序报错 \"配置系统未能初始化\""
+    ]
+  },
+  {
+    "suffix": "csv",
+    "name": "纯文本表格格式",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/csv.md",
+    "tags": [
+      "配置",
+      "数据",
+      "文本"
+    ],
+    "description": "CSV（Comma-Separated Values，逗号分隔值）是一种纯文本表格格式，用逗号分隔列、换行分隔行。在数据处理领域，CSV 是最重要的数据交换格式之一——它简单、通用、几乎被所有数据工具支持。",
+    "software": [],
+    "errors": [
+      "pandas 读取 CSV 报错 UnicodeDecodeError"
+    ]
+  },
+  {
+    "suffix": "env",
+    "name": "环境变量配置文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/env.md",
+    "tags": [
+      "配置",
+      "数据",
+      "文本"
+    ],
+    "description": ".env 文件是一种环境变量配置文件，用来存储应用程序的环境变量。它的格式非常简单：每行一个 `键=值` 对，程序启动时会读取这个文件，把里面的内容加载为环境变量。",
+    "software": [
+      "VS Code",
+      "记事本",
+      "Notepad++",
+      "TextEdit",
+      "CotEditor",
+      "Vim"
+    ],
+    "errors": [
+      "程序读取不到环境变量，返回 undefined / None"
+    ]
+  },
+  {
+    "suffix": "ini",
+    "name": "经典的配置文件格式",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/ini.md",
+    "tags": [
+      "配置",
+      "数据",
+      "文本"
+    ],
+    "description": "INI 是 Initialization（初始化）的缩写，是一种经典的配置文件格式。它由「节（Section）」和「键值对（Key-Value）」组成，结构简单直观，被广泛用于各类软件的配置存储。",
+    "software": [
+      "记事本",
+      "VS Code",
+      "Notepad++",
+      "Notepad2",
+      "TextEdit",
+      "CotEditor"
+    ],
+    "errors": [
+      "程序读取不到配置值，返回空或默认值"
+    ]
+  },
+  {
+    "suffix": "log",
+    "name": "日志文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/log.md",
+    "tags": [
+      "配置",
+      "数据",
+      "二进制",
+      "文本"
+    ],
+    "description": "LOG 文件是日志文件，用来记录程序运行过程中发生的事件、状态、错误和调试信息。在软件开发和运维中，日志是排查问题、监控系统、分析行为的重要依据。",
+    "software": [],
+    "errors": [
+      "日志文件太大，打开卡死或打不开"
+    ]
+  },
+  {
+    "suffix": "tmp",
+    "name": "Temporary（临时）",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/tmp.md",
+    "tags": [
+      "配置",
+      "数据"
+    ],
+    "description": "TMP 是 Temporary（临时） 的缩写，.tmp 文件是程序运行过程中产生的临时文件。这些文件通常用于存储中间数据、缓存计算结果、保存编辑中的文档副本等，程序关闭后一般会自动删除。",
+    "software": [
+      "记事本",
+      "VS Code",
+      "Notepad++",
+      "HxD（十六进制编辑器）",
+      "TextEdit",
+      "CotEditor"
+    ],
+    "errors": [
+      "删除 .tmp 文件时报错\"文件正在使用\""
+    ]
+  },
+  {
+    "suffix": "xls",
+    "name": "使用的二进制电子表格格式",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/xls.md",
+    "tags": [
+      "配置",
+      "数据",
+      "二进制",
+      "文本"
+    ],
+    "description": "XLS 是 Microsoft Excel 97-2003 使用的二进制电子表格格式。在数据处理领域，XLS 是一个\"历史遗留格式\"——很多老系统、传统企业仍在使用 XLS 格式导出数据，因此数据处理人员经常需要读写 XLS 文件。",
+    "software": [],
+    "errors": [
+      "xlrd 读取报错 \"Unsupported format, or corrupt file\""
+    ]
+  },
+  {
+    "suffix": "crt",
+    "name": "Certificate（证书）",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/crt.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "CRT 是 Certificate（证书） 的缩写，.crt 文件是数字证书文件，最常见的是 SSL/TLS 证书。数字证书就像是网站的\"身份证\"——由权威机构（CA）签发，用来证明网站的身份，让浏览器和服务器之间可以建立加密连接。",
+    "software": [],
+    "errors": [
+      "浏览器提示\"您的连接不是私密连接\""
+    ]
+  },
+  {
+    "suffix": "dll",
+    "name": "Dynamic Link Library（动态链接库）",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/dll.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "DLL 是 Dynamic Link Library（动态链接库） 的缩写，是 Windows 系统中非常重要的一种文件格式。简单来说，DLL 就是一个\"函数仓库\"——里面存放了很多可以被其他程序调用的函数和资源。多个程序可以共享同一个 DLL，不用每个程序都把相同的代码复制一遍。",
+    "software": [],
+    "errors": [
+      "启动软件提示\"找不到 xxx.dll\""
+    ]
+  },
+  {
+    "suffix": "key",
+    "name": "私钥文件",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/key.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": ".key 文件是私钥文件，是非对称加密体系中最重要的部分。在非对称加密中，有一对密钥：公钥（Public Key）和私钥（Private Key）。公钥可以公开给任何人，而私钥必须由自己保密。",
+    "software": [],
+    "errors": []
+  },
+  {
+    "suffix": "otf",
+    "name": "专业出版和设计领域的主流字体格式",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/otf.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "OTF 是 OpenType Font 的缩写，是由微软和 Adobe 联合开发的字体格式。可以把它理解为 TrueType 的\"升级版\"——在 TrueType 的基础上增加了很多高级排版功能，是专业出版和设计领域的主流字体格式。",
+    "software": [],
+    "errors": []
+  },
+  {
+    "suffix": "pem",
+    "name": "Privacy-Enhanced Mail（隐私增强邮件）",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/pem.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "PEM 是 Privacy-Enhanced Mail（隐私增强邮件） 的缩写，是一种编码格式，用来存储和传输加密密钥、证书等敏感数据。PEM 格式本质上是 Base64 编码的二进制数据，加上头尾的标记行，方便在文本环境中使用。",
+    "software": [],
+    "errors": [
+      "\"certificate verify failed\" 证书验证失败"
+    ]
+  },
+  {
+    "suffix": "sys",
+    "name": "System（系统）",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/sys.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "SYS 是 System（系统） 的缩写，.sys 文件是 Windows 操作系统中的驱动程序文件。驱动程序是操作系统和硬件设备之间的\"翻译官\"——硬件设备（如显卡、声卡、网卡、打印机）都需要对应的驱动程序才能工作。",
+    "software": [],
+    "errors": [
+      "蓝屏（BSOD）提示 xxx.sys 失败"
+    ]
+  },
+  {
+    "suffix": "ttf",
+    "name": "是由苹果和微软在年代联合开发的字体格式",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/ttf.md",
+    "tags": [
+      "字体",
+      "系统"
+    ],
+    "description": "TTF 是 TrueType Font 的缩写，是由苹果和微软在 1990 年代联合开发的字体格式。它是目前世界上最流行、兼容性最好的字体格式，几乎所有操作系统和软件都支持 TTF。",
+    "software": [],
+    "errors": []
+  },
+  {
+    "suffix": "woff",
+    "name": "专为网页设计的字体格式",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/woff.md",
+    "tags": [
+      "字体",
+      "系统",
+      "跨平台"
+    ],
+    "description": "WOFF（Web Open Font Format，Web 开放字体格式）是专为网页设计的字体格式，由 W3C 推荐使用。它本质上是对 TrueType（TTF）和 OpenType（OTF）字体的一种封装和压缩，让字体文件在网络传输时体积更小、加载更快。WOFF2 是其升级版，压缩率更高。",
+    "software": [
+      "FontForge",
+      "百度字体编辑器",
+      "woff2otf（命令行）",
+      "自带\"字体册\"（需先转格式）",
+      "fonttools（命令行）"
+    ],
+    "errors": [
+      "WOFF 文件无法安装到系统",
+      "网页中字体不生效，显示的是默认字体",
+      "WOFF 字体加载太慢，影响网页性能"
+    ]
+  },
+  {
+    "suffix": "blend",
+    "name": "开源三维创作软件的原生项目文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/blend.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "开源"
+    ],
+    "description": "BLEND 是开源三维创作软件 Blender 的原生项目文件格式。一个 .blend 文件不仅包含3D模型的几何数据，还可以包含完整的场景信息：材质纹理、灯光、摄像机、动画关键帧、物理模拟数据、粒子系统、骨骼绑定、节点合成、甚至视频序列编辑时间线。",
+    "software": [
+      "Blender（完全免费开源）",
+      "Blender"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "dwg",
+    "name": "公司开发的二维和三维设计数据文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/dwg.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "矢量"
+    ],
+    "description": "DWG（Drawing）是 Autodesk 公司开发的二维和三维设计数据文件格式，也是 AutoCAD 的原生文件格式。它包含了矢量图形数据、文字注释、标注尺寸、图层信息以及工程元数据等，是建筑、土木工程、机械设计和电力工程领域最广泛使用的工程图纸格式。",
+    "software": [
+      "DWG FastView",
+      "LibreCAD",
+      "FreeCAD",
+      "DWG FastView (网页版)"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "dxf",
+    "name": "公司开发的开放标准数据交换格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/dxf.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制",
+      "文本"
+    ],
+    "description": "DXF（Drawing Exchange Format）是 Autodesk 公司开发的开放标准 CAD 数据交换格式。与 DWG 的封闭二进制格式不同，DXF 旨在成为所有 CAD 软件之间的\"通用语言\"。DXF 文件可以是纯文本（ASCII）格式或二进制格式，包含了完整的图形实体、图层、标注、块定义等工程数据。",
+    "software": [
+      "LibreCAD",
+      "FreeCAD",
+      "Inkscape（需插件）",
+      "Inkscape"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "fbx",
+    "name": "公司开发的专有数据交换格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/fbx.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制"
+    ],
+    "description": "FBX（Filmbox）是 Autodesk 公司开发的专有3D数据交换格式。它是一种\"全能型\"3D格式，不仅能存储模型几何数据，还支持骨骼动画、关键帧动画、蒙皮绑定、材质贴图、灯光、摄像机、形态键（Blend Shape/Morph Target）等丰富的场景数据。",
+    "software": [
+      "Blender",
+      "Unity",
+      "Unreal Engine（免费）",
+      "Unreal Engine"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "gltf",
+    "name": "制定的现代开放格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/gltf.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制"
+    ],
+    "description": "glTF（GL Transmission Format）是 Khronos Group 制定的现代开放3D格式标准，被称为\"3D领域的JPEG\"。它专为高效传输和加载而设计，基于 JSON 结构组织数据，支持 PBR（基于物理的渲染）材质、骨骼动画、形态键变形、灯光、摄像机等丰富内容。",
+    "software": [
+      "Blender",
+      "Windows 3D Builder",
+      "3D Viewer",
+      "Quick Look（原生预览）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "igs",
+    "name": "最早的数据交换格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/igs.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "文本",
+      "跨平台"
+    ],
+    "description": "IGS（又称 IGES，全称 Initial Graphics Exchange Specification，初始图形交换规范）是最早的 CAD 数据交换格式之一，由美国国家标准局（NIST，现 NIST）在 1980 年代初主导开发。它的出现是为了解决不同 CAD 系统之间无法交换数据的问题，是 CAD 数据交换领域的\"开山鼻祖\"。",
+    "software": [
+      "FreeCAD",
+      "VariCAD Viewer",
+      "eDrawings Viewer",
+      "Fusion 360（个人免费版）",
+      "OpenCascade"
+    ],
+    "errors": [
+      "导入 IGES 后模型有很多破面，不是封闭实体",
+      "导入后某些曲面丢失或变形",
+      "IGES 文件打开后尺寸不对"
+    ]
+  },
+  {
+    "suffix": "max",
+    "name": "软件的专有场景文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/max.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制"
+    ],
+    "description": "MAX 是 Autodesk 3ds Max 软件的专有场景文件格式。3ds Max 是全球最流行的专业3D建模、动画和渲染软件之一，广泛应用于游戏开发、影视特效、建筑可视化和工业设计领域。",
+    "software": [
+      "无（.max为3ds Max专有格式）",
+      "无（3ds Max 无 Mac 版）",
+      "无"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "obj",
+    "name": "纯文本格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/obj.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制",
+      "文本"
+    ],
+    "description": "OBJ 是一种开放的3D模型几何数据交换格式，最早由 Wavefront Technologies 公司为其 Advanced Visualizer 软件开发。OBJ 文件是纯文本格式（也有二进制变体 .mod），记录了3D模型的顶点坐标、面（三角形/多边形）、纹理坐标（UV）、法线向量以及材质定义。",
+    "software": [
+      "Blender",
+      "FreeCAD",
+      "MeshLab",
+      "3D Builder"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "step",
+    "name": "一种国际标准的数据交换格式",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/step.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "无损",
+      "文本"
+    ],
+    "description": "STEP（全称 Standard for the Exchange of Product model data，产品模型数据交换标准）是一种国际标准的 3D CAD 数据交换格式，文件后缀通常为 `.step` 或 `.stp`。它是目前 CAD 领域最重要、最通用的中性文件格式之一，几乎所有主流 CAD 软件都支持 STEP 格式的导入和导出。",
+    "software": [
+      "FreeCAD",
+      "Blender（需插件）",
+      "VariCAD Viewer",
+      "eDrawings Viewer",
+      "Fusion 360（个人免费版）",
+      "Blender（FreeCAD 插件）"
+    ],
+    "errors": [
+      "导入 STEP 后模型有破面或实体丢失",
+      "STEP 文件打开后颜色丢失了",
+      "STEP 文件体积太大，打开很慢"
+    ]
+  },
+  {
+    "suffix": "stl",
+    "name": "打印领域最广泛使用的文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/stl.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "二进制"
+    ],
+    "description": "STL（STereoLithography）是3D打印领域最广泛使用的文件格式。它只存储3D模型的表面几何信息——用一系列三角形面片来逼近模型的表面，每个面片记录其三个顶点坐标和法线方向。STL 不包含颜色、材质、纹理、动画等任何附加数据。",
+    "software": [
+      "Blender",
+      "MeshLab",
+      "FreeCAD",
+      "Windows 3D Builder",
+      "Cura",
+      "PrusaSlicer"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "apk",
+    "name": "操作系统的应用程序安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/apk.md",
+    "tags": [
+      "移动端",
+      "安装包"
+    ],
+    "description": "APK（Android Package）是 Android 操作系统的应用程序安装包格式。一个 APK 文件本质上是一个 ZIP 压缩包，里面包含了 Android 应用的所有组成部分：编译后的代码（DEX文件）、资源文件（图片、布局XML等）、AndroidManifest.xml（应用清单）、签名证书以及可选的原生库（.so文件）。",
+    "software": [
+      "WinRAR/7-Zip（解压查看）",
+      "The Unarchiver",
+      "BlueStacks",
+      "unzip",
+      "Anbox/Waydroid（安卓容器）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "deb",
+    "name": "等使用的软件包格式",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/deb.md",
+    "tags": [
+      "移动端",
+      "安装包",
+      "二进制"
+    ],
+    "description": "DEB（Debian Package）是 Debian GNU/Linux 操作系统及其衍生发行版（Ubuntu、Linux Mint、Kali Linux 等）使用的软件包格式。一个 .deb 文件是一个 ar 归档，内部包含三个部分：控制信息（control archive，含包名、版本、依赖等元数据）、数据归档（data archive，含实际安装的文...",
+    "software": [
+      "7-Zip（解压查看内容）",
+      "WSL（Windows子系统Linux安装运行）",
+      "The Unarchiver（解压查看）",
+      "dpkg",
+      "apt",
+      "GDebi（图形安装器）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "dmg",
+    "name": "虚拟磁盘容器",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/dmg.md",
+    "tags": [
+      "移动端",
+      "安装包",
+      "加密"
+    ],
+    "description": "DMG（Apple Disk Image）是 macOS 操作系统原生支持的磁盘镜像文件格式。一个 DMG 文件本质上是一个虚拟磁盘容器，挂载后会在 Finder 侧边栏和桌面上显示为一个\"磁盘\"图标，里面可以存放任何文件。DMG 支持压缩、加密（AES-128/AES-256）和只读/读写/稀疏等多种模式。",
+    "software": [
+      "7-Zip",
+      "PeaZip（可解压查看DMG内容）",
+      "磁盘工具（Disk Utility）",
+      "dmg2img（命令行转换）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "ipa",
+    "name": "操作系统的应用程序安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/ipa.md",
+    "tags": [
+      "移动端",
+      "安装包",
+      "二进制"
+    ],
+    "description": "IPA（iOS App Store Package）是 Apple iOS 操作系统的应用程序安装包格式。一个 IPA 文件本质上是一个 ZIP 压缩包，内部结构遵循特定规范：包含编译后的二进制可执行文件、资源文件（图片、plist配置、nib/storyboard界面）、嵌入的动态库、Provisioning Profile（描述文件）以及代码签名。",
+    "software": [
+      "iTunes（旧版）",
+      "iMazing（免费版可查看）",
+      "Finder/iTunes",
+      "Apple Configurator 2（免费）",
+      "libimobiledevice（命令行工具）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "jar",
+    "name": "基于格式",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/jar.md",
+    "tags": [
+      "移动端",
+      "安装包"
+    ],
+    "description": "JAR（Java ARchive）是基于 ZIP 格式的 Java 平台归档文件格式。一个 JAR 文件将多个 Java 编译后的类文件（.class）、资源文件（图片、配置、属性文件）以及其他资源打包到一个文件中，并附带一个 META-INF/MANIFEST.MF 清单文件描述归档内容。",
+    "software": [
+      "7-Zip/WinRAR（解压）",
+      "JDK（运行）",
+      "Eclipse（查看编辑）",
+      "The Unarchiver",
+      "JDK",
+      "VS Code"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "msi",
+    "name": "结构化的数据库文件",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/msi.md",
+    "tags": [
+      "移动端",
+      "安装包"
+    ],
+    "description": "MSI（Microsoft Installer）是 Windows 操作系统的标准化安装包格式，基于 Windows Installer 服务（msiexec.exe）运行。与传统的 .exe 安装程序不同，MSI 是一种结构化的数据库文件（基于 OLE Structured Storage 格式），内部以表格形式记录了安装所需的文件、注册表项、快捷方式、组...",
+    "software": [
+      "Orca（微软官方MSI编辑器）",
+      "Less MSIérables（解包工具）",
+      "不适用（MSI为Windows专属）",
+      "不适用"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "pkg",
+    "name": "操作系统的标准化安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/pkg.md",
+    "tags": [
+      "移动端",
+      "安装包"
+    ],
+    "description": "PKG（macOS Installer Package）是 macOS 操作系统的标准化安装包格式，由 Apple 的 Installer 程序（/System/Library/CoreServices/Installer.app）处理。与 DMG 的\"拖拽安装\"不同，PKG 通过向导式安装流程完成软件部署，可以执行复杂的安装操作：选择安装目标磁盘、运行预检...",
+    "software": [
+      "7-Zip（解压查看内容）",
+      "productbuild（命令行）",
+      "pkgutil",
+      "xar（解压工具）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "rpm",
+    "name": "等使用的软件包格式",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/rpm.md",
+    "tags": [
+      "移动端",
+      "安装包",
+      "二进制"
+    ],
+    "description": "RPM（RPM Package Manager，最初全称 Red Hat Package Manager）是 Red Hat Linux 及其衍生发行版（Fedora、CentOS、RHEL、openSUSE、Rocky Linux 等）使用的软件包格式。一个 RPM 文件是一个特殊的 cpio 归档（加上了文件头和签名），包含编译后的二进制文件、配置文件、...",
+    "software": [
+      "7-Zip（解压查看内容）",
+      "WSL（Fedora/openSUSE子系统）",
+      "The Unarchiver（解压查看）",
+      "rpm",
+      "dnf/yum",
+      "zypper（openSUSE）"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "war",
+    "name": "平台的应用程序归档格式",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/war.md",
+    "tags": [
+      "移动端",
+      "安装包"
+    ],
+    "description": "WAR（Web Application ARchive）是 Java EE/Jakarta EE 平台的 Web 应用程序归档格式，基于 ZIP/JAR 格式。一个 WAR 文件将一个完整的 Java Web 应用打包成一个文件，内部包含：编译后的Servlet类文件、JSP页面、HTML/CSS/JS等静态资源、配置文件（web.xml、applicati...",
+    "software": [
+      "7-Zip/WinRAR（解压）",
+      "Apache Tomcat（部署运行）",
+      "The Unarchiver",
+      "Apache Tomcat",
+      "unzip"
+    ],
+    "errors": []
+  },
+  {
+    "suffix": "azw3",
+    "name": "亚马逊为电子书开发的新一代格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/azw3.md",
+    "tags": [
+      "文档",
+      "电子书"
+    ],
+    "description": "AZW3（也叫 KF8，Kindle Format 8）是亚马逊为 Kindle 电子书开发的新一代格式，是 MOBI 的升级版。它支持更丰富的排版：自定义字体、嵌入图片、嵌套列表、CSS 样式、SVG 图形等，是 Kindle 上体验最好的电子书格式。",
+    "software": [
+      "Kindle for PC（亚马逊官方）",
+      "Calibre",
+      "SumatraPDF",
+      "Kindle for Mac",
+      "FBReader"
+    ],
+    "errors": [
+      "AZW3 文件传到 Kindle 后打不开或提示 DRM 保护",
+      "AZW3 转 EPUB/PDF 后排版乱码或图片丢失",
+      "Calibre 无法编辑 AZW3 或转换报错"
+    ]
+  },
+  {
+    "suffix": "djvu",
+    "name": "专为扫描文档和图片密集型内容设计的高压缩比文档格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/djvu.md",
+    "tags": [
+      "文档",
+      "电子书"
+    ],
+    "description": "DjVu（发音类似\"黛雅-武\"）是一种专为扫描文档和图片密集型内容设计的高压缩比文档格式。它最大的本事是：能把一整本扫描的图书压到非常小，同时保持文字清晰可读。",
+    "software": [
+      "DjView",
+      "WinDjView",
+      "SumatraPDF",
+      "STDU Viewer",
+      "MacDjView",
+      "Preview（部分版本）"
+    ],
+    "errors": [
+      "DjVu 文件在 Windows 上双击没反应",
+      "DjVu 打开后文字看不清，发虚模糊",
+      "想把 DjVu 转成 PDF 但格式变乱/体积变大"
+    ]
+  },
+  {
+    "suffix": "keynote",
+    "name": "苹果演示文稿应用创建的格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/keynote.md",
+    "tags": [
+      "文档",
+      "电子书"
+    ],
+    "description": "KEYNOTE 是苹果 Keynote 演示文稿应用创建的格式，相当于苹果版的 PowerPoint。它是 iWork 套件的一员，以\"电影级动画效果\"和\"设计感强\"著称，很多设计师和产品发布会偏爱用它。",
+    "software": [
+      "iCloud 网页版 Keynote（浏览器）"
+    ],
+    "errors": [
+      "Windows 上打不开 .key 文件",
+      "Keynote 导出 PPTX 后动画效果丢失或排版错乱",
+      "Keynote 文件体积很大，演示卡顿"
+    ]
+  },
+  {
+    "suffix": "numbers",
+    "name": "苹果表格应用创建的电子表格格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/numbers.md",
+    "tags": [
+      "文档",
+      "电子书"
+    ],
+    "description": "NUMBERS 是苹果 Numbers 表格应用创建的电子表格格式，相当于苹果版的 Excel。它是 iWork 套件的一员，以\"画布式自由排版\"和\"模板精美\"著称——你可以把多个表格、图表、图片随意摆放在同一张画布上，比 Excel 灵活。",
+    "software": [
+      "iCloud 网页版 Numbers（浏览器）"
+    ],
+    "errors": [
+      "Windows 上打不开 .numbers 文件",
+      "Numbers 导出 Excel 后公式失效或多表格变乱",
+      "Numbers 文件在 iCloud 同步失败或丢失数据"
+    ]
+  },
+  {
+    "suffix": "odt",
+    "name": "OpenDocument 文本",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/odt.md",
+    "tags": [
+      "文档",
+      "电子书",
+      "开源"
+    ],
+    "description": "ODT 是 OpenDocument 文本（OpenDocument Text）的缩写，是一种开放标准的文字处理文档格式。它和 docx 类似，可以写文章、做排版，但最大的区别是：它不属于任何一家公司，是国际开放标准。",
+    "software": [
+      "LibreOffice Writer",
+      "OpenOffice Writer",
+      "WPS Office",
+      "Google Docs（网页）",
+      "Pages",
+      "Calligra Words"
+    ],
+    "errors": [
+      "Word 打开 ODT 后排版错乱、字体变化",
+      "ODT 文件打不开，提示\"文件已损坏\"",
+      "ODT 文件体积异常大"
+    ]
+  },
+  {
+    "suffix": "pages",
+    "name": "苹果文稿应用创建的文档格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/pages.md",
+    "tags": [
+      "文档",
+      "电子书"
+    ],
+    "description": "PAGES 是苹果 Pages 文稿应用创建的文档格式，相当于苹果版的 Word。它是 iWork 办公套件的一部分，在 Mac、iPhone、iPad 上用于文字处理和页面排版，以模板精美、操作直观著称。",
+    "software": [
+      "iCloud 网页版 Pages（浏览器）"
+    ],
+    "errors": [
+      "Windows 上打不开 .pages 文件",
+      "Pages 导出 Word 后排版错乱",
+      "iCloud 网页版 Pages 打不开文件或加载很慢"
+    ]
+  },
+  {
+    "suffix": "rtf",
+    "name": "富文本格式",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/rtf.md",
+    "tags": [
+      "文档",
+      "电子书",
+      "文本",
+      "跨平台"
+    ],
+    "description": "RTF 是 富文本格式（Rich Text Format）的缩写，由微软在 1987 年推出。它是一种\"带排版的纯文本\"——既能像 Word 一样有粗体、颜色、表格等样式，又能像 TXT 一样被几乎所有软件打开。它是跨平台文档交换的\"老牌通用语言\"。",
+    "software": [
+      "WordPad",
+      "LibreOffice Writer",
+      "WPS Office",
+      "AbiWord",
+      "Calligra Words"
+    ],
+    "errors": [
+      "RTF 文件用记事本打开全是乱码符号",
+      "RTF 文件体积很大，打开很卡",
+      "RTF 里的特殊符号或公式显示不正常"
+    ]
+  },
+  {
+    "suffix": "tex",
+    "name": "LaTeX 排版源文件",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/tex.md",
+    "tags": [
+      "文档",
+      "电子书",
+      "文本"
+    ],
+    "description": "TEX 是 LaTeX 排版源文件，是一种\"用写代码的方式来排版文档\"的格式。你不用鼠标拖拽调格式，而是用命令描述\"这里是一个公式\"\"这是一段引用\"，然后由 LaTeX 引擎编译成漂亮的 PDF。它是学术界，尤其是数学、物理、计算机领域论文排版的绝对主力。",
+    "software": [
+      "TeXstudio",
+      "TeXworks",
+      "VS Code + LaTeX Workshop 插件",
+      "TeXShop（MacTeX 自带）",
+      "VS Code + 插件",
+      "Kile"
+    ],
+    "errors": [
+      "编译报错 \"Undefined control sequence\"（未定义命令）",
+      "中文显示不出来，变成方块或编译报错",
+      "参考文献编号变成问号 [?]"
+    ]
+  },
+  {
+    "suffix": "aac",
+    "name": "高级音频编码",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/aac.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "有损",
+      "流媒体"
+    ],
+    "description": "AAC 是 高级音频编码（Advanced Audio Coding）的缩写，是 MP3 的官方\"继任者\"。它在同等音质下体积比 MP3 小约 25-30%，是苹果生态、YouTube、数字电视的主流音频格式。你听到的绝大多数在线视频和流媒体音频，底层多半是 AAC。",
+    "software": [
+      "VLC",
+      "foobar2000",
+      "QQ音乐",
+      "iTunes/音乐 App",
+      "Audacious",
+      "mpv"
+    ],
+    "errors": [
+      "Audacity 打不开 AAC/m4a 文件",
+      "AAC 文件在某些老设备/老车载音响上放不了",
+      "AAC 转换后音质下降或出现爆音"
+    ]
+  },
+  {
+    "suffix": "ape",
+    "name": "无损音频格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/ape.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "开源",
+      "无损"
+    ],
+    "description": "APE 是 Monkey's Audio 无损音频格式的扩展名，由 Matthew T. Ashland 在 2000 年开发。它是一种无损压缩音频——压缩后体积比 WAV 小约一半，但解压后和原始 WAV 一模一样，不丢任何音质。它比 FLAC 压缩率更高（体积更小），但代价是编解码更慢。",
+    "software": [
+      "foobar2000",
+      "AIMP",
+      "VLC",
+      "QQ音乐（部分）",
+      "酷狗（部分）",
+      "Cog"
+    ],
+    "errors": [
+      "APE 文件只有一首，没有分轨，整张专辑成一个文件",
+      "APE 文件在 Mac/手机上播放卡顿或不支持",
+      "APE 转 MP3 后文件名/标签混乱"
+    ]
+  },
+  {
+    "suffix": "cr2",
+    "name": "佳能（Canon）相机的 RAW 格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/cr2.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损"
+    ],
+    "description": "CR2 是佳能（Canon）相机的 RAW 格式，是 RAW 的一种具体厂商实现。它存储佳能相机感光元件捕获的原始图像数据，未经相机内部处理，是佳能摄影师的\"数字底片\"。",
+    "software": [
+      "RawTherapee",
+      "darktable",
+      "Canon DPP",
+      "预览（部分）",
+      "digiKam"
+    ],
+    "errors": [
+      "CR2 文件在 Windows 上只显示图标，预览不出来",
+      "新版/老版软件打不开某些 CR2",
+      "CR2 文件体积大，连拍时存储卡很快就满"
+    ]
+  },
+  {
+    "suffix": "dds",
+    "name": "纹理格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/dds.md",
+    "tags": [
+      "图片",
+      "媒体"
+    ],
+    "description": "DDS 是 DirectDraw Surface 纹理格式，由微软为 DirectX 开发。它是游戏和实时图形的\"原生纹理格式\"——图片直接以显卡能读取的压缩格式存储，加载到游戏里无需再压缩转换，速度快、显存省。",
+    "software": [
+      "Paint.NET（原生支持）",
+      "XnView",
+      "IrfanView（需插件）",
+      "GIMP（需插件）",
+      "ImageMagick"
+    ],
+    "errors": [
+      "DDS 在普通看图软件里显示不出来或花屏",
+      "导出的 DDS 在游戏里颜色发暗或有色块",
+      "DDS 文件带 mipmap 后体积变大，不知道要不要 mipmap"
+    ]
+  },
+  {
+    "suffix": "eps",
+    "name": "封装 PostScript",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/eps.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损",
+      "矢量",
+      "位图"
+    ],
+    "description": "EPS 是 封装 PostScript（Encapsulated PostScript）的缩写，是一种矢量图形格式，常用于印刷出版领域。它基于 Adobe 的 PostScript 页面描述语言，可以无损放大缩小，是早期专业印刷和矢量设计的标准格式。",
+    "software": [
+      "Inkscape（免费矢量编辑）",
+      "IrfanView（仅预览）",
+      "Ghostscript + GSview",
+      "Inkscape",
+      "预览（部分）",
+      "Ghostscript"
+    ],
+    "errors": [
+      "EPS 文件在 Photoshop 里打开变成位图，不能编辑矢量",
+      "EPS 打开后字体变成了默认字体或乱码",
+      "Inkscape 打不开 EPS，提示需要 Ghostscript"
+    ]
+  },
+  {
+    "suffix": "heic",
+    "name": "高效图片格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/heic.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损",
+      "有损"
+    ],
+    "description": "HEIC 是 高效图片格式（High Efficiency Image Container）的缩写，基于 HEVC（H.265）视频编码技术。简单说：它是 JPG 的\"继任者\"——在画质相当的前提下，体积只有 JPG 的一半左右。从 iOS 11 开始，iPhone 默认就用 HEIC 格式拍照。",
+    "software": [
+      "系统照片（Win10 1809+，需装 HEIF 扩展）",
+      "IrfanView",
+      "ImageGlass",
+      "照片 App",
+      "gThumb",
+      "ImageMagick"
+    ],
+    "errors": [
+      "Windows 上打不开 HEIC，提示\"需要新应用来打开此文件\"",
+      "HEIC 上传到某些网站/平台失败",
+      "HEIC 文件在老设备/老软件上完全打不开"
+    ]
+  },
+  {
+    "suffix": "heif",
+    "name": "高效图像文件格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/heif.md",
+    "tags": [
+      "图片",
+      "媒体"
+    ],
+    "description": "HEIF 是 高效图像文件格式（High Efficiency Image File Format）的缩写，是一个基于 HEVC/H.265 编码的通用图片容器。简单说：HEIC 是 HEIF 容器的一种具体实现（苹果的命名），而 .heif 是更通用的扩展名。一个 HEIF 文件里可以装单张图片、图片序列（连拍/Live Photo）、动画，甚至带音频的图...",
+    "software": [
+      "系统照片（Win10 1809+ 需 HEIF 扩展）",
+      "ImageGlass",
+      "IrfanView",
+      "照片 App",
+      "gThumb",
+      "ImageMagick"
+    ],
+    "errors": [
+      "Windows 打不开 .heif 文件",
+      "HEIF 文件里的图片序列（连拍/Live Photo）只显示第一帧",
+      "HEIF 转 JPG 后透明背景变黑色"
+    ]
+  },
+  {
+    "suffix": "mid",
+    "name": "MIDI 音乐",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/mid.md",
+    "tags": [
+      "图片",
+      "媒体"
+    ],
+    "description": "MID（.mid 或 .midi）是 MIDI 音乐文件，MIDI 是\"乐器数字接口\"（Musical Instrument Digital Interface）的缩写。关键要理解：MID 文件里没有真实声音，它存的只是一堆\"演奏指令\"——何时按哪个键、力度多大、用什么音色。播放时由软件用音源（合成器）把这些指令\"演奏\"出来。",
+    "software": [
+      "VLC（部分）",
+      "MuseScore",
+      "VLC",
+      "Timidity++",
+      "FluidSynth",
+      "LMMS"
+    ],
+    "errors": [
+      "MID 文件播放出来音色很差，像\"电子玩具\"",
+      "MID 文件在手机上播放没声音",
+      "MID 导入 DAW 后音色/乐器全错了"
+    ]
+  },
+  {
+    "suffix": "mpg",
+    "name": "MPEG 视频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/mpg.md",
+    "tags": [
+      "图片",
+      "媒体"
+    ],
+    "description": "MPG 是 MPEG 视频的通用扩展名，指基于 MPEG 标准压缩的视频文件。它涵盖 MPEG-1 和 MPEG-2 两代标准，是 VCD、DVD 时代的视频格式主力。你早年看的 VCD、DVD，以及数字电视广播，底层都是 MPEG。",
+    "software": [
+      "VLC",
+      "MPC-HC",
+      "PotPlayer",
+      "QuickTime Player（部分）",
+      "mpv",
+      "IINA"
+    ],
+    "errors": [
+      "MPG 视频播放时画面有横向条纹/交错线",
+      "DVD 的 VOB 文件播放/转换时断点不连续",
+      "MPG 文件体积很大，想压缩"
+    ]
+  },
+  {
+    "suffix": "ogg",
+    "name": "开源免费的有损音频压缩格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/ogg.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "开源",
+      "有损",
+      "流媒体"
+    ],
+    "description": "OGG（准确说是 Ogg Vorbis）是一种开源免费的有损音频压缩格式，由 Xiph.org 基金会开发。它对标 MP3，但完全免费开放——任何人都可以免费用，不像 MP3 那样曾有专利收费。Ogg 是容器，Vorbis 是里面的音频编码，二者常被一起称作 OGG。",
+    "software": [
+      "VLC",
+      "foobar2000",
+      "AIMP",
+      "QQ音乐/网易云音乐（部分支持）",
+      "Cog",
+      "IINA"
+    ],
+    "errors": [
+      "OGG 文件在 Windows Media Player 里放不出来",
+      "OGG 转成 MP3 后音质下降明显",
+      "OGG 文件元数据（标签）显示乱码"
+    ]
+  },
+  {
+    "suffix": "opus",
+    "name": "Opus 音频编码",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/opus.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "开源",
+      "有损",
+      "流媒体"
+    ],
+    "description": "OPUS 是 Opus 音频编码格式，由 Xiph.org 和 Skype（微软）联合开发，2012 年成为 IETF 标准（RFC 6716）。它是目前最先进的全能音频编码——从低码率语音到高码率音乐都表现优异，完全开源免费，正逐步取代 Vorbis、Speex 甚至 AAC 的部分场景。",
+    "software": [
+      "VLC",
+      "foobar2000（需插件）",
+      "AIMP",
+      "mpv",
+      "IINA",
+      "Rhythmbox（新版）"
+    ],
+    "errors": [
+      "Opus 文件在某些播放器/设备上放不了",
+      "Opus 转 MP3 后音质下降",
+      "网页上 Opus 音频在某些浏览器播放不了"
+    ]
+  },
+  {
+    "suffix": "raw",
+    "name": "原始图像数据",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/raw.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损"
+    ],
+    "description": "RAW 是相机拍摄的原始图像数据，被称为\"数字底片\"。当相机拍 JPG 时，其实是相机内部先把原始数据加工（白平衡、锐化、降噪、压缩）再保存；而 RAW 保存的是 sensor 直接捕获的、未经\"美化\"的原始数据，把后期处理的主动权完全交给你。",
+    "software": [
+      "RawTherapee",
+      "darktable",
+      "IrfanView（部分）",
+      "FastStone Image Viewer",
+      "预览（部分支持）",
+      "digiKam"
+    ],
+    "errors": [
+      "RAW 文件在 Windows 照片查看器里打不开",
+      "换了新相机，旧版 Lightroom 打不开新 RAW",
+      "RAW 文件体积很大，硬盘装不下"
+    ]
+  },
+  {
+    "suffix": "tga",
+    "name": "图片格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/tga.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损",
+      "位图"
+    ],
+    "description": "TGA 是 Truevision TGA（Truevision Graphics Adapter）图片格式，由 Truevision 公司在 1984 年推出。它是早期少数支持透明通道（Alpha 通道）的格式之一，因此在游戏开发、3D 贴图、影视动画领域长期占有一席之地。",
+    "software": [
+      "IrfanView",
+      "ImageGlass",
+      "XnView",
+      "GIMP",
+      "Paint.NET",
+      "预览（部分支持）"
+    ],
+    "errors": [
+      "TGA 图片打开后背景是黑色而非透明",
+      "TGA 在 Photoshop 里打开提示选 16/24/32 位，不知道选哪个",
+      "TGA 文件体积比 PNG 大很多"
+    ]
+  },
+  {
+    "suffix": "webm",
+    "name": "谷歌在年推出的开放免费视频格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/webm.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "开源"
+    ],
+    "description": "WebM 是谷歌在 2010 年推出的开放免费视频格式，专为网页视频设计。它基于 Matroska（MKV）容器，搭配 VP8/VP9/AV1 视频编码和 Vorbis/Opus 音频编码，全部开源免费，旨在打破 H.264/H.265 的专利收费壁垒。",
+    "software": [
+      "VLC",
+      "mpv",
+      "Edge/Chrome 浏览器",
+      "MPC-HC",
+      "IINA",
+      "Safari/Chrome"
+    ],
+    "errors": [
+      "WebM 在某些浏览器（如老 Safari）播放不了",
+      "WebM 转 MP4 后体积变大很多",
+      "Premiere/Final Cut 导入 WebM 失败"
+    ]
+  },
+  {
+    "suffix": "wma",
+    "name": "的缩写微软开发的音频压缩格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/wma.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "无损",
+      "有损",
+      "加密"
+    ],
+    "description": "WMA 是 Windows Media Audio 的缩写，微软开发的音频压缩格式，1999 年推出，对标 MP3。它曾是 Windows 生态的主力音频格式，集成在 Windows Media Player 中，主打\"同码率音质优于 MP3\"和 DRM 版权保护。",
+    "software": [
+      "VLC",
+      "foobar2000",
+      "AIMP",
+      "Flip4Mac（QuickTime 组件）",
+      "ffplay（ffmpeg）"
+    ],
+    "errors": [
+      "Mac/Linux 上打不开 WMA 文件",
+      "WMA 文件播放时提示\"需要许可证\"或无法播放",
+      "WMA 转换后音质变差或有杂音"
+    ]
+  },
+  {
+    "suffix": "wmv",
+    "name": "的缩写微软开发的视频压缩格式",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/wmv.md",
+    "tags": [
+      "图片",
+      "媒体",
+      "跨平台"
+    ],
+    "description": "WMV 是 Windows Media Video 的缩写，微软开发的视频压缩格式，2000 年代曾是 Windows 生态的主力视频格式。它集成在 Windows Media Player 中，主打\"同画质体积比 MPEG-2 小\"，并支持 DRM 版权保护。",
+    "software": [
+      "VLC",
+      "mpv",
+      "MPC-HC",
+      "Flip4Mac（QuickTime 组件）",
+      "ffplay"
+    ],
+    "errors": [
+      "Mac/Linux 上打不开 WMV",
+      "WMV 文件播放时提示\"需要许可证\"",
+      "WMV 转 MP4 后音画不同步或花屏"
+    ]
+  },
+  {
+    "suffix": "asm",
+    "name": "汇编语言源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/asm.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "加密",
+      "二进制"
+    ],
+    "description": ".asm 是 汇编语言源代码文件后缀。汇编语言是\"最接近机器语言的低级语言\"，每条指令基本对应一条 CPU 机器指令。它是人类能读懂的最底层编程语言。",
+    "software": [
+      "VS Code",
+      "Notepad++",
+      "SASM（简易汇编 IDE）",
+      "Vim",
+      "NASM（自带编辑器）"
+    ],
+    "errors": [
+      "报错 \"error: instruction expected\" 或 \"syntax error\"",
+      "报错 \"undefined symbol\" 链接错误",
+      "运行后段错误（Segmentation fault）"
+    ]
+  },
+  {
+    "suffix": "aspx",
+    "name": "ASP.NET 网页",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/aspx.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".aspx 是 ASP.NET 网页文件的后缀。ASP.NET 是微软的 Web 应用开发框架，.aspx 文件是一种服务端渲染的动态网页——服务器执行 C#/VB.NET 代码生成 HTML 后发送给浏览器。",
+    "software": [
+      "VS Code + C# 扩展",
+      "Visual Studio Community",
+      "MonoDevelop"
+    ],
+    "errors": [
+      "浏览器访问 .aspx 页面直接下载文件而不是渲染",
+      "报错 \"Server Error in '/' Application - Configuration Error\"",
+      "报错 \"Could not load file or assembly 'xxx'\""
+    ]
+  },
+  {
+    "suffix": "cmake",
+    "name": "CMake 构建系统",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/cmake.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开源",
+      "跨平台"
+    ],
+    "description": ".cmake 是 CMake 构建系统的脚本文件后缀。CMake 是一个跨平台的自动化构建工具，它本身不编译代码，而是根据配置文件生成对应平台的构建文件（如 Makefile、Visual Studio 工程、Ninja 文件等），再用这些构建文件去编译 C/C++ 项目。",
+    "software": [
+      "VS Code + CMake 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Could NOT find xxx\"（找不到第三方库）"
+    ]
+  },
+  {
+    "suffix": "cs",
+    "name": "读作编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/cs.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开源",
+      "跨平台"
+    ],
+    "description": ".cs 是 C#（读作 C-Sharp）编程语言的源代码文件后缀。C# 是微软在 2000 年推出的面向对象编程语言，语法类似 Java/C++，运行在 .NET 平台上，现在已全面开源跨平台。",
+    "software": [
+      "VS Code + C# 扩展",
+      "Visual Studio for Mac",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"The type or namespace name 'xxx' could not be found\""
+    ]
+  },
+  {
+    "suffix": "dart",
+    "name": "Dart 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/dart.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "跨平台"
+    ],
+    "description": ".dart 是 Dart 语言的源代码文件后缀。Dart 是 Google 开发的现代化编程语言，语法类似 Java/C#/JavaScript，最大用途是配合 Flutter 框架开发跨平台移动应用（iOS + Android）、Web 应用和桌面应用。",
+    "software": [
+      "VS Code + Dart 扩展",
+      "Android Studio",
+      "Vim"
+    ],
+    "errors": [
+      "`flutter doctor` 报 Android toolchain 问题",
+      "报错 \"Error: Member not found: 'xxx'\" 或 Widget 报红",
+      "运行报错 \"No connected devices\" 或 \"No supported devices found\""
+    ]
+  },
+  {
+    "suffix": "go",
+    "name": "Go 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/go.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开源",
+      "跨平台"
+    ],
+    "description": ".go 是 Go 语言（又称 Golang）的源代码文件后缀。Go 是 Google 在 2009 年开源的静态编译型语言，主打简单、高效、强大的原生并发支持。",
+    "software": [
+      "VS Code + Go 扩展",
+      "Vim"
+    ],
+    "errors": [
+      "`go run` 时报 \"go: go.mod file not found\"",
+      "`go get` 下载依赖超时或失败（国内常见）"
+    ]
+  },
+  {
+    "suffix": "gradle",
+    "name": "Gradle 构建工具",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/gradle.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".gradle 是 Gradle 构建工具的构建脚本文件后缀。Gradle 是一个基于 Groovy/Kotlin DSL 的自动化构建工具，主要用于 Java/Kotlin/Android 项目的构建管理，是 Maven 的现代替代品。",
+    "software": [
+      "VS Code + Gradle 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Could not resolve xxx\"（依赖无法解析）",
+      "报错 \"Unsupported class file major version\" 或 JDK 版本不匹配",
+      "报错 \"Gradle build daemon disappeared\" 或 Gradle 卡死"
+    ]
+  },
+  {
+    "suffix": "jl",
+    "name": "Julia 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jl.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开源"
+    ],
+    "description": ".jl 是 Julia 语言的源代码文件后缀。Julia 是一门专为科学计算和数值分析设计的高性能编程语言，由 MIT 的研究者开发。它最大的卖点是\"像 Python 一样易用，像 C 一样快速\"。",
+    "software": [
+      "VS Code + Julia 扩展",
+      "Juno（Atom 插件）",
+      "Juno",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"ArgumentError: Package xxx not found in current path\"",
+      "首次运行很慢（\"precompiling...\"）",
+      "报错 \"UndefVarError: xxx not defined\""
+    ]
+  },
+  {
+    "suffix": "jsp",
+    "name": "服务器页面文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jsp.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".jsp 是 JavaServer Pages（Java 服务器页面）文件的后缀。JSP 是 Java EE/Jakarta EE 平台的服务端渲染技术，允许在 HTML 中嵌入 Java 代码，在服务器上动态生成网页。",
+    "software": [
+      "VS Code + Java 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "浏览器访问 .jsp 显示源代码而不是渲染后的 HTML",
+      "报错 \"HTTP Status 500 - Unable to compile class for JSP\"",
+      "中文乱码"
+    ]
+  },
+  {
+    "suffix": "jsx",
+    "name": "JSX 代码文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jsx.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "跨平台"
+    ],
+    "description": ".jsx 是 React JSX 文件的扩展名。JSX 是 JavaScript 的语法扩展，允许你在 JavaScript 代码中直接写类似 HTML 的标签语法。简单来说，它让你用一种\"看起来像 HTML\"的方式描述 UI 组件，然后通过编译工具（如 Babel）转换成普通的 JavaScript 函数调用。",
+    "software": [
+      "VS Code + React 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "浏览器报错 \"SyntaxError: Unexpected token '<'\"",
+      "报错 \"'React' is not defined\" 或 \"React is not defined\""
+    ]
+  },
+  {
+    "suffix": "kt",
+    "name": "编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/kt.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "二进制",
+      "跨平台"
+    ],
+    "description": ".kt 是 Kotlin 编程语言的源代码文件后缀。Kotlin 由 JetBrains 在 2011 年发布，2017 年成为 Android 官方首选开发语言。它与 Java 100% 互通，语法更简洁安全，能跑在 JVM 上。",
+    "software": [
+      "VS Code + Kotlin 扩展",
+      "Android Studio"
+    ],
+    "errors": [
+      "报错 \"Unresolved reference: xxx\"",
+      "报错 \"Cannot find a method with a signature\"",
+      "编译时报 \"warning: variable never used\" 或代码有黄色警告"
+    ]
+  },
+  {
+    "suffix": "less",
+    "name": "预处理器的文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/less.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".less 是 Less CSS 预处理器的文件后缀。Less 受 Sass 启发，在 CSS 基础上增加了变量、嵌套、混入（mixin）、函数等特性，最终编译成普通 CSS。它的语法风格比 Sass 更接近原生 CSS，上手简单。",
+    "software": [
+      "VS Code + Easy LESS 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"variable @xxx is undefined\"",
+      "`lessc` 命令找不到 / 编译没反应",
+      "报错 \"ParseError: Unrecognised input\" 或语法错误"
+    ]
+  },
+  {
+    "suffix": "lua",
+    "name": "Lua 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/lua.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".lua 是 Lua 语言的源代码文件后缀。Lua 是一种轻量、快速、可嵌入的脚本语言，由巴西 PUC-Rio 大学开发。它的核心只有一个几十 KB 的 C 库，非常适合嵌入到其他程序中作为扩展脚本使用。",
+    "software": [
+      "VS Code + Lua 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"attempt to index a nil value (global 'xxx')\"",
+      "报错 \"attempt to call a nil value\"",
+      "运行提示 \"'lua' 不是内部或外部命令\"（Windows）"
+    ]
+  },
+  {
+    "suffix": "php",
+    "name": "服务器端脚本语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/php.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".php 是 PHP 编程语言的源代码文件后缀。PHP 是一种服务器端脚本语言，专为 Web 开发而生，至今仍是互联网上最常见的后端语言之一（WordPress、Laravel 生态庞大）。",
+    "software": [
+      "VS Code + PHP 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "浏览器访问 .php 文件显示源代码或提示下载文件",
+      "报错 \"Fatal error: Uncaught Error: Class 'xxx' not found\"",
+      "报错 \"Call to undefined function\" 或方法不存在"
+    ]
+  },
+  {
+    "suffix": "pl",
+    "name": "Perl 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/pl.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".pl 是 Perl 语言的源代码文件后缀。Perl（Practical Extraction and Report Language）是一门经典的脚本语言，在文本处理、系统管理和正则表达式方面极为强大。",
+    "software": [
+      "VS Code + Perl 扩展",
+      "Notepad++",
+      "Strawberry Perl 编辑器"
+    ],
+    "errors": [
+      "报错 \"Can't locate xxx.pm in @INC\"",
+      "报错 \"Global symbol requires explicit package name\"",
+      "Windows 下提示 \"'perl' 不是内部或外部命令\""
+    ]
+  },
+  {
+    "suffix": "r",
+    "name": "R 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/r.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".r 是 R 语言的源代码文件后缀。R 是一门专为统计计算和数据可视化设计的编程语言，在学术研究、数据科学、生物信息学等领域广泛使用。",
+    "software": [
+      "RStudio Desktop（免费版）",
+      "VS Code + R 扩展",
+      "RStudio Desktop",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"there is no package called 'xxx'\"",
+      "报错 \"could not find function 'xxx'\""
+    ]
+  },
+  {
+    "suffix": "rb",
+    "name": "编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/rb.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".rb 是 Ruby 编程语言的源代码文件后缀。Ruby 是日本人松本行弘（Matz）在 1995 年开发的动态脚本语言，设计哲学是\"让程序员快乐\"。它因 Ruby on Rails 框架而闻名全球，曾撑起大量早期互联网创业公司。",
+    "software": [
+      "VS Code + Ruby 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "Windows 上提示 \"ruby 不是内部或外部命令\"",
+      "`gem install` 卡住或报错 \"Too many connection resets\"",
+      "报 \"Gem::ConflictError\" 或版本冲突"
+    ]
+  },
+  {
+    "suffix": "rs",
+    "name": "编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/rs.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".rs 是 Rust 编程语言的源代码文件后缀。Rust 由 Mozilla 开发，主打内存安全和高性能，号称\"C/C++ 的安全替代品\"。它通过所有权（ownership）机制，在编译阶段就杜绝了大部分内存错误，无需垃圾回收（GC）。",
+    "software": [
+      "VS Code + rust-analyzer 扩展",
+      "Vim"
+    ],
+    "errors": [
+      "Windows 上报 \"linker 'link.exe' not found\"",
+      "编译很慢 / 下载依赖超时"
+    ]
+  },
+  {
+    "suffix": "scala",
+    "name": "Scala 语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/scala.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".scala 是 Scala 语言的源代码文件后缀。Scala（Scalable Language）是一门运行在 Java 虚拟机（JVM）上的编程语言，它融合了面向对象和函数式编程两种范式，语法比 Java 更简洁但更强大。",
+    "software": [
+      "VS Code + Scala 扩展（Metals）",
+      "VS Code + Scala 扩展",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"not found: value xxx\" 或编译报错",
+      "SBT 下载依赖超时或失败（国内常见）"
+    ]
+  },
+  {
+    "suffix": "scss",
+    "name": "的语法文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/scss.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".scss 是 Sass（Syntactically Awesome Style Sheets）的 SCSS 语法文件后缀。Sass 是一种 CSS 预处理器，SCSS 是其中一种语法（与 CSS 语法完全兼容，用大括号和分号）。它让 CSS 支持变量、嵌套、混入（mixin）、函数、模块化等高级功能，最终编译成普通 CSS。",
+    "software": [
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Error: Undefined variable\"",
+      "报错 \"Error: no module named 'xxx'\" 或 @use 找不到模块",
+      "CSS 没生成 / 编译没反应"
+    ]
+  },
+  {
+    "suffix": "swift",
+    "name": "编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/swift.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "跨平台"
+    ],
+    "description": ".swift 是 Swift 编程语言的源代码文件后缀。Swift 是 Apple 在 2014 年推出的现代编程语言，用来取代 Objective-C，成为 iOS、macOS、watchOS、tvOS 开发的首选语言。",
+    "software": [
+      "VS Code + Swift 扩展",
+      "Xcode（免费）",
+      "Vim"
+    ],
+    "errors": [
+      "Windows/Linux 上报 \"swift: command not found\"",
+      "Xcode 报 \"Cannot find 'xxx' in scope\"",
+      "报错 \"Value of optional type 'xxx?' must be unwrapped\""
+    ]
+  },
+  {
+    "suffix": "toml",
+    "name": "配置文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/toml.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".toml 是 TOML（Tom's Obvious, Minimal Language）配置文件的后缀。TOML 是一种语义清晰、可读性强的配置文件格式，目标是取代 INI 等老旧格式，成为\"比 YAML 简单、比 JSON 友好\"的配置标准。",
+    "software": [
+      "VS Code + Even Better TOML 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Expected key, but found ...\" 或解析失败",
+      "表/数组表的层级混乱，值读不到",
+      "Python 报 \"ModuleNotFoundError: No module named 'tomllib'\""
+    ]
+  },
+  {
+    "suffix": "ts",
+    "name": "编程语言",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/ts.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".ts 是 TypeScript 编程语言的源代码文件后缀。TypeScript 是微软开发的 JavaScript 超集（superset），它在 JavaScript 基础上增加了静态类型系统，最终会被编译成普通的 JavaScript 运行。",
+    "software": [
+      "VS Code",
+      "Vim"
+    ],
+    "errors": [
+      "提示 \"'tsc' 不是内部或外部命令\"",
+      "报错 \"Cannot find module 'xxx'\"（找不到模块）",
+      "报错 \"Type 'string' is not assignable to type 'number'\""
+    ]
+  },
+  {
+    "suffix": "tsx",
+    "name": "的文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/tsx.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "跨平台"
+    ],
+    "description": ".tsx 是 React + TypeScript 的文件后缀。它在 .jsx（JSX 语法）基础上加入了 TypeScript 的静态类型系统，让你在写 React 组件的同时获得类型检查、智能提示和编译时错误发现。",
+    "software": [
+      "VS Code + TypeScript 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Type 'string' is not assignable to type 'number'\""
+    ]
+  },
+  {
+    "suffix": "vue",
+    "name": "Vue 单文件组件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/vue.md",
+    "tags": [
+      "编程",
+      "脚本"
+    ],
+    "description": ".vue 是 Vue 单文件组件（Single File Component，简称 SFC）的文件后缀。Vue 是流行的渐进式前端框架，.vue 文件把一个组件的模板（template）、逻辑（script）、样式（style）集中在一个文件里，用构建工具编译成可在浏览器运行的 JavaScript。",
+    "software": [
+      "VS Code + Volar 扩展",
+      "Notepad++",
+      "Vim"
+    ],
+    "errors": [
+      "报错 \"Component is missing template/render function\"",
+      "`npm run dev` 报错 \"Cannot find module 'vite'\" 或依赖找不到",
+      "报错 \"[Vue warn]: Failed to resolve component\""
+    ]
+  },
+  {
+    "suffix": "db",
+    "name": "SQLite 数据库文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/db.md",
+    "tags": [
+      "虚拟化",
+      "数据库"
+    ],
+    "description": ".db 是一个通用的数据库文件后缀。它并不绑定到某一种数据库，而是多种数据库系统都可能使用的通用后缀。最常见的是 SQLite 数据库文件，但也可能是其他格式（如 Berkeley DB、Thumbs.db 缩略图数据库等）。",
+    "software": [
+      "DB Browser for SQLite",
+      "7-Zip（部分可解压）",
+      "Notepad++",
+      "DBeaver Community",
+      "sqlite3 命令行"
+    ],
+    "errors": [
+      "修改后没保存，关闭后数据丢失",
+      "数据库被锁，提示 \"database is locked\""
+    ]
+  },
+  {
+    "suffix": "img",
+    "name": "通用的磁盘镜像文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/img.md",
+    "tags": [
+      "虚拟化",
+      "数据库"
+    ],
+    "description": ".img 是一种通用的磁盘镜像文件后缀，它是对整个磁盘或分区的逐扇区复制，内容和原始磁盘完全一致（bit-for-bit copy）。.img 是\"原始格式\"（raw），没有压缩和特殊元数据，因此兼容性极好。",
+    "software": [
+      "balenaEtcher",
+      "Rufus",
+      "7-Zip（解压）",
+      "Raspberry Pi Imager",
+      "dd 命令",
+      "7-Zip"
+    ],
+    "errors": [
+      "Etcher/Rufus 写入失败或提示设备被占用",
+      "dd 写入后 U 盘容量变小 / Windows 不识别",
+      "树莓派烧录后无法启动"
+    ]
+  },
+  {
+    "suffix": "magnet",
+    "name": "一个文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/magnet.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "开源"
+    ],
+    "description": "首先要澄清一个核心概念：.magnet 严格来说不是一个文件后缀，而是一种\"链接协议\"——磁力链接（Magnet Link）。它本质上是一段 URI（统一资源标识符），形如 `magnet:?xt=urn:btih:哈希值...`，用来通过内容哈希定位资源，而非依赖服务器上的文件地址。",
+    "software": [
+      "qBittorrent",
+      "Transmission",
+      "aria2"
+    ],
+    "errors": [
+      "添加磁力链接后一直\"正在获取元数据\"或\"下载中 0%\"",
+      "浏览器点击磁力链接没反应/提示\"没有应用可处理\"",
+      "下载到假文件 / 文件名和内容不符"
+    ]
+  },
+  {
+    "suffix": "qcow2",
+    "name": "QEMU 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/qcow2.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "加密"
+    ],
+    "description": ".qcow2 是 QEMU 虚拟磁盘（QEMU Copy-On-Write version 2）文件后缀，是 QEMU/KVM 虚拟化平台的标准磁盘镜像格式。它支持写时复制、快照、压缩、加密等高级特性，是 Linux 服务器虚拟化和云计算的主流格式。",
+    "software": [
+      "QEMU for Windows",
+      "7-Zip（查看内容）",
+      "QEMU（brew install qemu）",
+      "UTM（前端）",
+      "QEMU/KVM",
+      "virt-manager"
+    ],
+    "errors": [
+      "报错 \"qemu-img: Could not open ... No such file or directory\"",
+      "报错 \"qcow2: Image is corrupt; cannot be opened\"",
+      "KVM 虚拟机性能差，CPU 占用高"
+    ]
+  },
+  {
+    "suffix": "sqlite",
+    "name": "SQLite 数据库",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/sqlite.md",
+    "tags": [
+      "虚拟化",
+      "数据库"
+    ],
+    "description": ".sqlite（或 .sqlite3）是 SQLite 数据库文件后缀。SQLite 是一种轻量级、嵌入式、无需服务器的数据库引擎，整个数据库就是单个文件，不需要单独的数据库服务进程。",
+    "software": [
+      "DB Browser for SQLite",
+      "DBeaver Community",
+      "sqlite3 命令行"
+    ],
+    "errors": [
+      "报错 \"database is locked\"",
+      "用 Python/程序写入后数据丢失"
+    ]
+  },
+  {
+    "suffix": "torrent",
+    "name": "BitTorrent 种子文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/torrent.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "开源"
+    ],
+    "description": ".torrent 是 BitTorrent 种子文件的后缀。BitTorrent 是一种点对点（P2P）的文件分发协议，.torrent 文件本身不含目标文件内容，而是包含目标文件的元数据（文件名、大小、分块信息、Tracker 服务器地址、内容哈希等）。",
+    "software": [
+      "qBittorrent",
+      "Transmission",
+      "aria2"
+    ],
+    "errors": [
+      "下载一直 0% 或速度极慢，连不上节点",
+      "下载到 99% 就卡住不动",
+      "下载的文件被杀毒软件报毒"
+    ]
+  },
+  {
+    "suffix": "vdi",
+    "name": "VirtualBox 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/vdi.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "跨平台"
+    ],
+    "description": ".vdi 是 VirtualBox 虚拟磁盘（VirtualBox Disk Image）文件后缀，是 Oracle VirtualBox 专用的虚拟机硬盘镜像格式。一个 .vdi 文件在虚拟机里就像一块真实硬盘，里面装着操作系统和文件。",
+    "software": [
+      "VirtualBox",
+      "7-Zip（查看内容）",
+      "QEMU"
+    ],
+    "errors": [
+      "报错 \"Failed to open the disk image file\"",
+      "复制后提示 UUID 已存在",
+      "虚拟机很卡、磁盘性能差"
+    ]
+  },
+  {
+    "suffix": "vmdk",
+    "name": "VMware 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/vmdk.md",
+    "tags": [
+      "虚拟化",
+      "数据库"
+    ],
+    "description": ".vmdk 是 VMware 虚拟磁盘（Virtual Machine Disk）文件后缀，是 VMware 开发的虚拟机硬盘镜像格式。一个 .vmdk 文件在虚拟机里就像一块真实硬盘，里面装着操作系统和文件。",
+    "software": [
+      "VirtualBox（可转换使用）",
+      "VMware Fusion Player（个人免费）",
+      "VirtualBox",
+      "QEMU"
+    ],
+    "errors": [
+      "打开时提示 \"The file is not a valid virtual disk\" 或损坏",
+      "提示 \"磁盘空间不足\" 但虚拟机内还有很多空间",
+      "复制到别的机器后无法启动 / 网卡变成 eth1"
+    ]
+  },
+  {
+    "suffix": "wasm",
+    "name": "的二进制文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/wasm.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "二进制",
+      "跨平台"
+    ],
+    "description": ".wasm 是 WebAssembly 的二进制文件后缀。WebAssembly（简称 WASM）是一种可移植、体积小、加载快的二进制指令格式，可以让 C/C++/Rust/Go 等语言编译后的代码在浏览器或 WASM 运行时中接近原生速度运行。",
+    "software": [
+      "浏览器（Chrome/Edge/Firefox）",
+      "VS Code + WASM 扩展",
+      "Node.js",
+      "浏览器（Chrome/Safari/Firefox）",
+      "VS Code",
+      "浏览器"
+    ],
+    "errors": [
+      "浏览器加载报错 \"CompileError: wasm validation error\""
+    ]
+  },
+  {
+    "suffix": "accdb",
+    "name": "微软 Access 数据库文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/accdb.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "加密"
+    ],
+    "description": "ACCDB 是微软 Access 数据库文件（Microsoft Access Database）的后缀，是 Microsoft Office Access 2007 及以后版本使用的默认数据库格式。它取代了旧版的 .mdb 格式，支持更强大的功能，包括多值字段、附件字段、数据宏等。",
+    "software": [
+      "LibreOffice Base（部分支持）",
+      "MDB Viewer Plus",
+      "MDB Tools（命令行）"
+    ],
+    "errors": [
+      "\"无法打开数据库，它可能不是您认识的数据库格式\""
+    ]
+  },
+  {
+    "suffix": "cbr",
+    "name": "漫画书文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/cbr.md",
+    "tags": [
+      "邮件",
+      "日历"
+    ],
+    "description": "CBR 是漫画书文件（Comic Book RAR）的后缀，是一种专门用于存储漫画的文件格式。它本质上是把一组图片（JPEG、PNG、BMP 等）按顺序打包成一个 RAR 压缩文件，然后将后缀改为 `.cbr`，方便漫画阅读软件按页翻阅。",
+    "software": [
+      "CDisplayEX",
+      "HoneyView",
+      "Sumatra PDF",
+      "MangaMeeya",
+      "Simple Comic",
+      "YACReader"
+    ],
+    "errors": [
+      "CBR 文件打不开，提示不支持格式"
+    ]
+  },
+  {
+    "suffix": "cbz",
+    "name": "漫画书文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/cbz.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "跨平台"
+    ],
+    "description": "CBZ 是漫画书文件（Comic Book ZIP）的后缀，与 CBR 类似，区别在于 CBZ 本质上是 ZIP 压缩包。它把一组漫画图片（JPEG、PNG、BMP 等）打包成一个 ZIP 文件，改后缀为 `.cbz`，方便漫画阅读软件按页翻阅。",
+    "software": [
+      "CDisplayEX",
+      "HoneyView",
+      "Sumatra PDF",
+      "MangaMeeya",
+      "Simple Comic",
+      "YACReader"
+    ],
+    "errors": [
+      "CBZ 文件打不开"
+    ]
+  },
+  {
+    "suffix": "chm",
+    "name": "编译的 HTML 帮助文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/chm.md",
+    "tags": [
+      "邮件",
+      "日历"
+    ],
+    "description": "CHM 是编译的 HTML 帮助文件（Compiled HTML Help）的后缀，由微软开发。它将一组 HTML 页面、图片、索引和目录编译打包成一个文件，常用于软件的帮助文档、教程手册等。大部分 Windows 软件（特别是老软件）的帮助文档都是 CHM 格式。",
+    "software": [
+      "Sumatra PDF Reader",
+      "Chmox",
+      "iCHM",
+      "Enolsoft CHM View",
+      "xCHM",
+      "KchmViewer"
+    ],
+    "errors": [
+      "CHM 文件打开后内容空白或显示\"无法导航\""
+    ]
+  },
+  {
+    "suffix": "dat",
+    "name": "通用数据文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/dat.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "二进制"
+    ],
+    "description": "DAT 是通用数据文件（Data File）的后缀。注意，DAT 不是一种特定格式，而是一个通用后缀名——任何程序都可以用它来存储数据，实际内容格式由创建该文件的程序决定。这意味着两个 .dat 文件内部结构可能完全不同。",
+    "software": [
+      "文本编辑器（记事本/Notepad++/VS Code）",
+      "VLC 播放器",
+      "Winmail Opener",
+      "文本编辑（TextEdit）",
+      "Gedit/VS Code",
+      "xxd 命令"
+    ],
+    "errors": [
+      "收到 winmail.dat 附件打不开"
+    ]
+  },
+  {
+    "suffix": "eml",
+    "name": "电子邮件文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/eml.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本",
+      "跨平台"
+    ],
+    "description": "EML 是电子邮件文件（Email Message）的通用格式，由微软根据 RFC 822 / RFC 2822 标准开发。它本质上是一个纯文本文件，按照 MIME 标准封装了邮件的标题、正文、附件等信息，几乎所有邮件客户端都能识别。",
+    "software": [
+      "Windows 自带邮件应用",
+      "Mozilla Thunderbird",
+      "Foxmail",
+      "Evolution",
+      "Geary"
+    ],
+    "errors": [
+      "双击 EML 文件打不开"
+    ]
+  },
+  {
+    "suffix": "ics",
+    "name": "iCalendar 格式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/ics.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本",
+      "跨平台"
+    ],
+    "description": "ICS 是 iCalendar 格式（Internet Calendar）的文件后缀，由互联网工程任务组（IETF）定义，是一种通用的日历数据交换格式。它用于描述日历事件、日程安排、会议邀请等信息，几乎所有日历应用都支持。",
+    "software": [
+      "Mozilla Thunderbird 日历模块",
+      "Google 日历网页版",
+      "Evolution",
+      "GNOME Calendar"
+    ],
+    "errors": [
+      "导入 ICS 后时间不对，差了好几个小时"
+    ]
+  },
+  {
+    "suffix": "inf",
+    "name": "系统中的一种纯文本配置文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/inf.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本"
+    ],
+    "description": "INF（Information File，安装信息文件）是 Windows 系统中的一种纯文本配置文件，主要用于驱动程序安装和软件组件安装。它定义了安装过程中需要复制哪些文件、修改哪些注册表项、创建哪些快捷方式等操作。INF 文件最常见的用途是安装硬件驱动程序——右键 .inf 文件选择\"安装\"，系统就会按照文件中的指令安装驱动。",
+    "software": [
+      "Notepad++",
+      "系统内置安装引擎",
+      "文本编辑（仅查看）",
+      "文本编辑器（仅查看）"
+    ],
+    "errors": [
+      "右键 INF 安装失败，提示\"安装失败\"或没有反应",
+      "安装驱动时提示\"第三方 INF 不包含数字签名\"",
+      "INF 文件打开方式被改成了记事本，右键没有\"安装\"选项"
+    ]
+  },
+  {
+    "suffix": "md5",
+    "name": "MD5 校验文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/md5.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "有损",
+      "文本"
+    ],
+    "description": "MD5 是 MD5 校验文件的后缀，用于存储目标文件的 MD5 哈希值（一个 32 位十六进制字符串）。它的作用是验证文件的完整性——通过对比文件实际计算的 MD5 值和 .md5 文件中记录的值，确认文件在传输过程中没有被损坏或篡改。",
+    "software": [
+      "MD5 Checker",
+      "HashTab",
+      "7-Zip（右键可算哈希）",
+      "文本编辑（TextEdit）",
+      "终端 `md5` 命令",
+      "文本编辑器"
+    ],
+    "errors": [
+      "MD5 校验值不匹配，文件不完整"
+    ]
+  },
+  {
+    "suffix": "msg",
+    "name": "微软 Outlook 邮件格式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/msg.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "二进制"
+    ],
+    "description": "MSG 是微软 Outlook 邮件格式（Outlook Message Format），由微软开发，专门用于保存 Outlook 中的邮件、约会、联系人、任务等项目。与通用的 EML 不同，MSG 是 Outlook 的私有二进制格式，基于 MAPI（消息应用程序编程接口）结构。",
+    "software": [
+      "Mozilla Thunderbird（需插件）",
+      "Kernel MSG Viewer",
+      "Free MSG Viewer",
+      "Apple 邮件（需先转换）",
+      "MailConverter",
+      "命令行工具 libpst"
+    ],
+    "errors": [
+      "没有安装 Outlook，无法打开 MSG 文件"
+    ]
+  },
+  {
+    "suffix": "nfo",
+    "name": "信息文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/nfo.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本"
+    ],
+    "description": "NFO 是信息文件（Info File 或 \"ReadMe\" File）的后缀，是一种纯文本文件，通常包含软件的说明信息、版本说明、安装指南、团队介绍等。在软件发布和场景中，NFO 文件相当于一个\"自我介绍\"文件。",
+    "software": [
+      "Notepad++",
+      "DAMN NFO Viewer",
+      "文本编辑（TextEdit，需设等宽字体）",
+      "BBEdit（免费版）",
+      "Gedit/VS Code（需等宽字体）",
+      "终端 `cat`"
+    ],
+    "errors": [
+      "NFO 文件打开后 ASCII 艺术图案错乱变形"
+    ]
+  },
+  {
+    "suffix": "part",
+    "name": "下载未完成文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/part.md",
+    "tags": [
+      "邮件",
+      "日历"
+    ],
+    "description": "PART 是下载未完成文件（Partial Download File）的后缀。当你用下载工具（如浏览器、迅雷、IDM 等）下载文件时，在下载完成之前，已下载的部分会以 `.part` 后缀保存在临时目录中。下载完成后，后缀会被自动改为正确的格式（如 .zip、.mp4 等）。",
+    "software": [
+      "原下载工具（Firefox/Chrome/迅雷/IDM）",
+      "文本编辑器查看内容",
+      "原下载工具（Safari/Firefox）",
+      "文本编辑器",
+      "原下载工具（Firefox/wget/aria2）"
+    ],
+    "errors": [
+      "下载工具无法恢复 PART 文件继续下载"
+    ]
+  },
+  {
+    "suffix": "plist",
+    "name": "属性列表文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/plist.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "开源",
+      "二进制",
+      "文本"
+    ],
+    "description": "PLIST 是属性列表文件（Property List）的后缀，由苹果公司开发，是 macOS 和 iOS 系统中用来存储配置数据的标准格式。它类似于 Windows 的注册表或 INI 文件，用于保存应用的设置、偏好、权限信息等。",
+    "software": [
+      "文本编辑器（记事本/Notepad++/VS Code）",
+      "Plist Editor",
+      "Xcode（免费）",
+      "文本编辑（TextEdit，可打开 XML 格式）",
+      "Quick Look（空格预览）",
+      "文本编辑器"
+    ],
+    "errors": [
+      "二进制 PLIST 用记事本打开是乱码"
+    ]
+  },
+  {
+    "suffix": "reg",
+    "name": "Windows 注册表导出文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/reg.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本"
+    ],
+    "description": "REG 是Windows 注册表导出文件（Registry Export File）的后缀。它是一种纯文本文件，包含 Windows 注册表的键值数据，可以用来导入/导出注册表项。通过双击 REG 文件，可以将其中内容导入到注册表中。",
+    "software": [
+      "Notepad++",
+      "VS Code",
+      "文本编辑器（仅查看，无法导入）"
+    ],
+    "errors": [
+      "双击 REG 文件提示\"无法导入，不是注册表文件\""
+    ]
+  },
+  {
+    "suffix": "sfv",
+    "name": "用于验证文件完整性的轻量级校验文件格式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sfv.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本"
+    ],
+    "description": "SFV（Simple File Verification，简单文件校验）是一种用于验证文件完整性的轻量级校验文件格式。它使用 CRC32 校验算法来检测文件是否损坏或被篡改。SFV 文件本身是纯文本格式，里面记录了每个文件的文件名和对应的 CRC32 校验值。",
+    "software": [
+      "记事本",
+      "QuickSFV",
+      "FlashSFV",
+      "hksfv",
+      "7-Zip（查看）",
+      "文本编辑"
+    ],
+    "errors": [
+      "SFV 校验失败，提示文件损坏",
+      "双击 SFV 文件没反应或打不开",
+      "文件名含中文时 SFV 校验出错"
+    ]
+  },
+  {
+    "suffix": "sha256",
+    "name": "SHA-256 校验文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sha256.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "开源",
+      "有损",
+      "文本"
+    ],
+    "description": "SHA256 是 SHA-256 校验文件的后缀，用于存储目标文件的 SHA-256 哈希值（一个 64 位十六进制字符串）。与 MD5 类似，但 SHA-256 算法更安全、哈希值更长，是目前推荐的文件完整性校验标准。",
+    "software": [
+      "HashTab",
+      "7-Zip（右键可算哈希）",
+      "PowerShell（`Get-FileHash`）",
+      "文本编辑",
+      "终端 `shasum -a 256` 命令",
+      "文本编辑器"
+    ],
+    "errors": [
+      "SHA-256 校验值不匹配"
+    ]
+  },
+  {
+    "suffix": "sub",
+    "name": "图形字幕格式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sub.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "无损",
+      "位图"
+    ],
+    "description": "SUB 是一种图形字幕格式，通常与 IDX 文件配对使用（称为 SUB/IDX 字幕）。SUB 文件存储的是字幕的图像数据（位图），而不是文本，因此它可以显示任何语言、任何字体样式的字幕，不受编码限制。这种字幕格式在 DVD 时代非常流行，因为它本质上就是 DVD 字幕的数字化版本。",
+    "software": [
+      "VLC 媒体播放器",
+      "PotPlayer",
+      "MPC-HC",
+      "QQ 影音",
+      "IINA",
+      "Movist"
+    ],
+    "errors": [
+      "SUB 字幕加载后不显示",
+      "字幕显示乱码或花屏",
+      "想修改 SUB 字幕的文字，但用记事本打开是乱码"
+    ]
+  },
+  {
+    "suffix": "tsv",
+    "name": "制表符分隔值文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/tsv.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本",
+      "跨平台"
+    ],
+    "description": "TSV 是制表符分隔值文件（Tab-Separated Values）的后缀，是一种纯文本数据表格格式。与 CSV（逗号分隔）类似，区别在于 TSV 使用 Tab（制表符 `\\t`）作为字段分隔符，而 CSV 使用逗号。每一行代表一条记录，每行内的字段用 Tab 隔开。",
+    "software": [
+      "Notepad++",
+      "LibreOffice Calc",
+      "WPS 表格",
+      "文本编辑（TextEdit）",
+      "Gedit/VS Code",
+      "Gnumeric"
+    ],
+    "errors": [
+      "TSV 文件用 Excel 打开后所有数据挤在一列"
+    ]
+  },
+  {
+    "suffix": "url",
+    "name": "本地程序或文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/url.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本",
+      "跨平台"
+    ],
+    "description": "URL 文件（Internet Shortcut，Internet 快捷方式）是 Windows 系统中的一种快捷方式文件，用于快速打开指定的网页地址。它类似于 .lnk 快捷方式，但 .lnk 指向的是本地程序或文件，而 .url 指向的是互联网上的网页地址。双击 .url 文件会用默认浏览器打开对应的网页。",
+    "software": [
+      "系统原生支持（双击即打开）",
+      "记事本（编辑）",
+      "文本编辑（查看内容）",
+      "浏览器（手动输入网址）",
+      "文本编辑器（查看）",
+      "浏览器（手动打开）"
+    ],
+    "errors": [
+      "双击 .url 文件没反应，或打开方式不对",
+      ".url 文件显示的图标不对或白图标",
+      "在 Mac 上打不开 .url 文件"
+    ]
+  },
+  {
+    "suffix": "vcf",
+    "name": "vCard 格式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/vcf.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "文本",
+      "跨平台"
+    ],
+    "description": "VCF 是 vCard 格式（Virtual Contact File）的文件后缀，是一种标准的电子名片格式。它用于存储联系人信息，包括姓名、电话、邮箱、地址、公司、职位、照片等。几乎所有手机和电脑的通讯录应用都支持 VCF 格式。",
+    "software": [
+      "Outlook 免费版",
+      "Mozilla Thunderbird",
+      "Evolution",
+      "GNOME Contacts"
+    ],
+    "errors": [
+      "VCF 导入后中文姓名乱码"
+    ]
+  },
+  {
+    "suffix": "gba",
+    "name": "掌机的游戏镜像文件",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/gba.md",
+    "tags": [
+      "跨平台"
+    ],
+    "description": "GBA 文件是任天堂 Game Boy Advance（简称 GBA，游戏男孩 Advance）掌机的游戏 ROM 镜像文件。它包含了完整的 GBA 游戏程序和数据，可以在 GBA 模拟器中运行，或在烧录卡上运行。GBA 是 2000 年代最受欢迎的掌机之一，拥有大量经典游戏。",
+    "software": [
+      "VisualBoyAdvance-M（VBA-M）",
+      "mGBA",
+      "RetroArch",
+      "OpenEmu",
+      "VisualBoyAdvance",
+      "Mednafen"
+    ],
+    "errors": [
+      "GBA 游戏白屏、黑屏或花屏",
+      "汉化版游戏玩不了或乱码",
+      "游戏存档丢失，下次打开要重新开始"
+    ]
+  },
+  {
+    "suffix": "nes",
+    "name": "游戏的镜像文件",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/nes.md",
+    "tags": [],
+    "description": "NES 文件是任天堂红白机（Nintendo Entertainment System，简称 NES，日本称为 Family Computer 即 FC/ famicom）游戏的 ROM 镜像文件。它包含了完整的游戏程序和数据，可以在 NES 模拟器中运行，实现在现代设备上玩红白机游戏。",
+    "software": [
+      "Nestopia UE",
+      "FCEUX",
+      "Mesen",
+      "RetroArch",
+      "Nestopia",
+      "OpenEmu"
+    ],
+    "errors": [
+      "NES 游戏运行不了，提示\"不支持的 Mapper\"",
+      "游戏画面花屏或颜色不对",
+      "游戏存档不能保存"
+    ]
+  },
+  {
+    "suffix": "rom",
+    "name": "游戏机或老电脑系统的芯片数据的镜像文件",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/rom.md",
+    "tags": [
+      "跨平台"
+    ],
+    "description": "ROM（Read-Only Memory，只读存储器镜像）是游戏机或老电脑系统的 ROM 芯片数据的镜像文件。简单来说，就是把游戏机卡带或主板上的 ROM 芯片里的数据完整地\"读\"出来，保存成一个文件。这个文件就叫 ROM 文件，可以在模拟器中运行，实现\"在电脑上玩老游戏\"。",
+    "software": [
+      "RetroArch（多合一模拟器）",
+      "各平台专用模拟器",
+      "RetroArch",
+      "OpenEmu（Mac 专用多模拟器前端）"
+    ],
+    "errors": [
+      "模拟器打不开 ROM 文件，提示\"不支持的格式\"",
+      "ROM 文件运行后花屏、黑屏或卡顿",
+      "不知道这个 ROM 是什么平台的游戏"
+    ]
+  },
+  {
+    "suffix": "sav",
+    "name": "电子游戏中最常见的存档格式",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/sav.md",
+    "tags": [],
+    "description": "SAV（Save File，存档文件）是电子游戏中最常见的存档格式之一，用于保存玩家的游戏进度、角色状态、道具装备、关卡进度等信息。不同游戏的 .sav 文件格式可能完全不同——它不是一个统一的标准格式，而是很多游戏都习惯用 .sav 作为存档文件的后缀名。",
+    "software": [
+      "记事本（部分可读）",
+      "HxD（十六进制编辑器）",
+      "各游戏专用存档编辑器",
+      "文本编辑（部分可读）",
+      "Hex Fiend（十六进制编辑）",
+      "文本编辑器"
+    ],
+    "errors": [
+      "游戏存档损坏，读档失败或崩溃",
+      "下载的存档放进游戏里读不出来",
+      "存档编辑器打不开 .sav 文件"
+    ]
+  },
+  {
+    "suffix": "vpk",
+    "name": "特殊的压缩包格式",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/vpk.md",
+    "tags": [],
+    "description": "VPK（Valve Pak）是 Valve 公司开发的一种游戏资源打包格式，用于存储 Valve 游戏（如反恐精英 2、Dota 2、半条命、求生之路等）的游戏资源，包括模型、贴图、声音、脚本、地图等。它本质上是一种特殊的压缩包格式，可以被 Source 引擎游戏直接读取。",
+    "software": [
+      "GCFScape",
+      "Crowbar",
+      "VTFEdit",
+      "HLMV（模型查看）",
+      "GCFScape（需 Wine）",
+      "Source 引擎自带工具"
+    ],
+    "errors": [
+      "GCFScape 打不开 VPK 文件",
+      "MOD/皮肤安装后游戏里不显示",
+      "VPK 文件太大，能不能拆分成多个？"
+    ]
+  },
+  {
+    "suffix": "wad",
+    "name": "毁灭战士系列游戏开发的一种资源打包格式",
+    "category": "游戏与仿真格式",
+    "categoryPath": "16-游戏与仿真格式",
+    "docPath": "docs/16-游戏与仿真格式/wad.md",
+    "tags": [],
+    "description": "WAD（Where's All the Data?，\"所有数据在哪？\"）是 id Software 公司为 DOOM（毁灭战士）系列游戏开发的一种资源打包格式。WAD 文件包含了 DOOM 游戏的所有数据——关卡、怪物、武器、贴图、声音、音乐等等。WAD 格式是游戏 MOD 文化的鼻祖，DOOM 的 MOD 社区至今仍然活跃。",
+    "software": [
+      "SLADE3",
+      "Doom Builder",
+      "ZDoom",
+      "GZDoom",
+      "Eternity Engine"
+    ],
+    "errors": [
+      "GZDoom 提示找不到 DOOM.WAD",
+      "加载 WAD 后游戏崩溃或花屏",
+      "WAD 和 PK3 有什么区别？"
+    ]
+  }
+]

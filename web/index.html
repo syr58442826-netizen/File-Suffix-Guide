@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="File-Suffix-Guide 在线查询工具 - 全网最全文件后缀使用手册">
+    <title>File-Suffix-Guide 在线查询</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 顶部导航栏 -->
+    <header class="header">
+        <div class="container header-inner">
+            <div class="logo-area">
+                <span class="logo-icon">📁</span>
+                <h1 class="logo-title">File-Suffix-Guide</h1>
+                <span class="logo-subtitle">在线查询</span>
+            </div>
+            <button id="themeToggle" class="theme-toggle" title="切换主题">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+    </header>
+
+    <!-- 主要内容区 -->
+    <main class="main">
+        <div class="container">
+            <!-- 搜索区域 -->
+            <section class="search-section">
+                <div class="search-box">
+                    <span class="search-icon">🔍</span>
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="搜索后缀名、中文名、分类或标签..." 
+                        autocomplete="off"
+                    >
+                    <button id="clearSearch" class="clear-btn" title="清空搜索" style="display:none;">✕</button>
+                </div>
+                <div class="search-stats">
+                    <span id="resultCount">加载中...</span>
+                </div>
+            </section>
+
+            <!-- 字母索引 -->
+            <section class="alphabet-section">
+                <div class="alphabet-bar" id="alphabetBar">
+                    <!-- 动态生成 A-Z 字母 -->
+                </div>
+            </section>
+
+            <!-- 分类筛选 -->
+            <section class="category-section">
+                <div class="category-filters" id="categoryFilters">
+                    <!-- 动态生成分类按钮 -->
+                </div>
+            </section>
+
+            <!-- 后缀卡片列表 -->
+            <section class="cards-section">
+                <div id="cardsContainer" class="cards-grid">
+                    <!-- 动态生成卡片 -->
+                </div>
+                <div id="noResults" class="no-results" style="display:none;">
+                    <div class="no-results-icon">📭</div>
+                    <p>没有找到匹配的后缀</p>
+                    <p class="no-results-hint">试试其他关键词或分类</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- 卡片详情弹窗 -->
+    <div id="detailModal" class="modal-overlay" style="display:none;">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">✕</button>
+            <div id="modalBody">
+                <!-- 动态填充详情内容 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 底部 -->
+    <footer class="footer">
+        <div class="container footer-inner">
+            <p>
+                <a href="../README.md" target="_blank">File-Suffix-Guide</a>
+                · 全网最全文件后缀使用手册
+            </p>
+            <p class="footer-links">
+                <a href="https://github.com/yourname/File-Suffix-Guide" target="_blank">GitHub</a>
+                · <a href="../README.md" target="_blank">项目主页</a>
+                · <a href="../FAQ.md" target="_blank">常见问题</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

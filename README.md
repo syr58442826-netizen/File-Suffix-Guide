@@ -43,6 +43,18 @@
 
 ---
 
+## 🔤 按首字母查找
+
+> 知道后缀名？按字母快速定位，200+ 后缀一网打尽。
+
+👉 [**ALPHABETICAL_INDEX.md — 按首字母查找索引**](ALPHABETICAL_INDEX.md)
+
+- 覆盖 A-Z 全部字母，200+ 后缀按首字母排序
+- 每个后缀带链接直达详解文档
+- 顶部快速跳转栏，一键直达目标字母
+
+---
+
 ## 📂 快速分类导航
 
 ### 1. [日常办公文档类](docs/01-日常办公文档类/README.md)
@@ -206,7 +218,26 @@
 | 漫画书 | [cbr](docs/15-邮件日历与其它常见格式/cbr.md) · [cbz](docs/15-邮件日历与其它常见格式/cbz.md) |
 | 数据/杂项 | [dat](docs/15-邮件日历与其它常见格式/dat.md) · [part](docs/15-邮件日历与其它常见格式/part.md) · [tsv](docs/15-邮件日历与其它常见格式/tsv.md) · [accdb](docs/15-邮件日历与其它常见格式/accdb.md) · [nfo](docs/15-邮件日历与其它常见格式/nfo.md) |
 | 系统配置 | [reg](docs/15-邮件日历与其它常见格式/reg.md) · [plist](docs/15-邮件日历与其它常见格式/plist.md) |
-| 校验文件 | [md5](docs/15-邮件日历与其它常见格式/md5.md) · [sha256](docs/15-邮件日历与其它常见格式/sha256.md) |
+| 校验文件 | [md5](docs/15-邮件日历与其它常见格式/md5.md) · [sha256](docs/15-邮件日历与其它常见格式/sha256.md) · [sfv](docs/15-邮件日历与其它常见格式/sfv.md) |
+
+### 16. [游戏与仿真格式](docs/16-游戏与仿真格式/README.md)
+游戏存档 / 游戏 ROM / 游戏资源包
+
+| 分类 | 后缀 |
+|------|------|
+| 游戏存档 | [sav](docs/16-游戏与仿真格式/sav.md) |
+| 游戏 ROM | [rom](docs/16-游戏与仿真格式/rom.md) · [nes](docs/16-游戏与仿真格式/nes.md) · [gba](docs/16-游戏与仿真格式/gba.md) |
+| 资源包 | [vpk](docs/16-游戏与仿真格式/vpk.md) · [wad](docs/16-游戏与仿真格式/wad.md) |
+
+### 17. [科学与学术格式](docs/17-科学与学术格式/README.md)
+MATLAB / Mathematica / BibTeX / HDF5
+
+| 分类 | 后缀 |
+|------|------|
+| MATLAB | [mat](docs/17-科学与学术格式/mat.md) · [m](docs/17-科学与学术格式/m.md) |
+| 数学计算 | [nb](docs/17-科学与学术格式/nb.md) |
+| 参考文献 | [bib](docs/17-科学与学术格式/bib.md) |
+| 科学数据 | [h5](docs/17-科学与学术格式/h5.md) |
 
 ---
 
@@ -278,9 +309,12 @@
 - [x] 虚拟化与数据库
 - [x] 邮件、日历与其它常见格式
 - [x] 补充遗漏：Office宏、OpenDocument、AVIF、Sketch/XCF、播放列表、现代压缩、React、Lua/R/Dart/Scala 等
+- [x] 更多冷门格式补充：RMVB/RM、ARJ、WOFF、STEP/IGES、SFV/URL/INF/SUB 等
+- [x] 新分类 16：游戏与仿真格式（SAV/ROM/NES/GBA/VPK/WAD）
+- [x] 新分类 17：科学与学术格式（MAT/M/NB/BIB/H5）
+- [x] 按首字母查找索引（ALPHABETICAL_INDEX.md）
 - [ ] 在线查询工具（网页版）
 - [ ] 命令行查询工具（CLI）
-- [ ] 更多冷门格式补充
 
 ## 🤝 参与贡献
 

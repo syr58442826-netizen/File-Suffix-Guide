@@ -1,0 +1,2808 @@
+[
+  {
+    "suffix": "3gp",
+    "name": "3GP 手机视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/3gp.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "手机"
+    ]
+  },
+  {
+    "suffix": "7z",
+    "name": "7-Zip 压缩包",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/7z.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "高压缩"
+    ]
+  },
+  {
+    "suffix": "aac",
+    "name": "AAC 音频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/aac.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "音频",
+      "高质量"
+    ]
+  },
+  {
+    "suffix": "accdb",
+    "name": "Access 数据库",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/accdb.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "Access",
+      "数据库",
+      "Office"
+    ]
+  },
+  {
+    "suffix": "ai",
+    "name": "Illustrator 矢量图",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/ai.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "Illustrator",
+      "矢量"
+    ]
+  },
+  {
+    "suffix": "aiff",
+    "name": "AIFF 音频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/aiff.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "音频",
+      "Apple",
+      "无损"
+    ]
+  },
+  {
+    "suffix": "ape",
+    "name": "APE 无损音频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/ape.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "无损",
+      "音频"
+    ]
+  },
+  {
+    "suffix": "apk",
+    "name": "Android 安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/apk.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Android",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "arj",
+    "name": "ARJ 压缩包",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/arj.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "经典"
+    ]
+  },
+  {
+    "suffix": "asm",
+    "name": "汇编源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/asm.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "汇编",
+      "底层"
+    ]
+  },
+  {
+    "suffix": "aspx",
+    "name": "ASP.NET 页面",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/aspx.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "ASP.NET",
+      "后端",
+      "微软"
+    ]
+  },
+  {
+    "suffix": "ass",
+    "name": "ASS 字幕文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/ass.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "字幕",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "avi",
+    "name": "AVI 视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/avi.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "经典"
+    ]
+  },
+  {
+    "suffix": "avif",
+    "name": "AVIF 图片",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/avif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "新一代",
+      "网页"
+    ]
+  },
+  {
+    "suffix": "azw3",
+    "name": "Kindle 电子书",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/azw3.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "Kindle"
+    ]
+  },
+  {
+    "suffix": "bat",
+    "name": "Windows 批处理脚本",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/bat.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Windows",
+      "脚本",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "bin",
+    "name": "二进制文件",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/bin.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "二进制"
+    ]
+  },
+  {
+    "suffix": "blend",
+    "name": "Blender 3D 文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/blend.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "Blender",
+      "开源"
+    ]
+  },
+  {
+    "suffix": "bmp",
+    "name": "BMP 位图",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/bmp.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "无损",
+      "位图"
+    ]
+  },
+  {
+    "suffix": "bz2",
+    "name": "Bzip2 压缩文件",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/bz2.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "Linux",
+      "高压缩"
+    ]
+  },
+  {
+    "suffix": "c",
+    "name": "C 语言源代码",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/c.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "C语言",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "cab",
+    "name": "CAB 安装包",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/cab.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "Windows",
+      "安装"
+    ]
+  },
+  {
+    "suffix": "cache",
+    "name": "缓存文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/cache.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "缓存"
+    ]
+  },
+  {
+    "suffix": "cbr",
+    "name": "漫画书压缩包",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/cbr.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "漫画",
+      "压缩"
+    ]
+  },
+  {
+    "suffix": "cbz",
+    "name": "漫画书压缩包",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/cbz.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "漫画",
+      "压缩"
+    ]
+  },
+  {
+    "suffix": "cdr",
+    "name": "CorelDRAW 文档",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/cdr.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "CorelDRAW",
+      "矢量"
+    ]
+  },
+  {
+    "suffix": "chm",
+    "name": "编译帮助文档",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/chm.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "帮助文档",
+      "Windows"
+    ]
+  },
+  {
+    "suffix": "class",
+    "name": "Java 字节码",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/class.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "Java",
+      "字节码"
+    ]
+  },
+  {
+    "suffix": "cmake",
+    "name": "CMake 构建脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/cmake.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "构建工具",
+      "C++"
+    ]
+  },
+  {
+    "suffix": "cmd",
+    "name": "Windows 命令脚本",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/cmd.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Windows",
+      "脚本",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "com",
+    "name": "DOS 命令文件",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/com.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "DOS",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "config",
+    "name": "配置文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/config.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志"
+    ]
+  },
+  {
+    "suffix": "cpp",
+    "name": "C++ 源代码",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/cpp.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "C++",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "cr2",
+    "name": "Canon RAW 照片",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/cr2.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "Canon",
+      "摄影",
+      "RAW"
+    ]
+  },
+  {
+    "suffix": "crt",
+    "name": "CRT 证书",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/crt.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "安全"
+    ]
+  },
+  {
+    "suffix": "cs",
+    "name": "C# 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/cs.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "C#",
+      ".NET",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "css",
+    "name": "CSS 样式表",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/css.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "样式",
+      "前端"
+    ]
+  },
+  {
+    "suffix": "csv",
+    "name": "逗号分隔值文件",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/csv.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "表格",
+      "数据",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "csv",
+    "name": "逗号分隔值文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/csv.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "表格",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "dart",
+    "name": "Dart 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/dart.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Flutter",
+      "移动"
+    ]
+  },
+  {
+    "suffix": "dat",
+    "name": "数据文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/dat.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "数据",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "db",
+    "name": "数据库文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/db.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机"
+    ]
+  },
+  {
+    "suffix": "dds",
+    "name": "DDS 纹理文件",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/dds.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "游戏",
+      "纹理"
+    ]
+  },
+  {
+    "suffix": "deb",
+    "name": "Debian 安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/deb.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Linux",
+      "Debian",
+      "安装"
+    ]
+  },
+  {
+    "suffix": "djvu",
+    "name": "DjVu 电子书",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/djvu.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "扫描"
+    ]
+  },
+  {
+    "suffix": "dll",
+    "name": "动态链接库",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/dll.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "动态链接库"
+    ]
+  },
+  {
+    "suffix": "dmg",
+    "name": "macOS 磁盘镜像",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/dmg.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "macOS",
+      "Apple",
+      "镜像"
+    ]
+  },
+  {
+    "suffix": "doc",
+    "name": "Word 97-2003 文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/doc.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Word",
+      "Office"
+    ]
+  },
+  {
+    "suffix": "docm",
+    "name": "Word 宏文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/docm.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Word",
+      "Office",
+      "宏"
+    ]
+  },
+  {
+    "suffix": "docx",
+    "name": "Word 文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/docx.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Word",
+      "Office"
+    ]
+  },
+  {
+    "suffix": "dwg",
+    "name": "AutoCAD 图纸",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/dwg.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "AutoCAD",
+      "工程"
+    ]
+  },
+  {
+    "suffix": "dxf",
+    "name": "CAD 交换文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/dxf.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "交换格式"
+    ]
+  },
+  {
+    "suffix": "eml",
+    "name": "邮件文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/eml.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "env",
+    "name": "环境变量文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/env.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "环境变量"
+    ]
+  },
+  {
+    "suffix": "eps",
+    "name": "EPS 矢量图",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/eps.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "矢量",
+      "印刷"
+    ]
+  },
+  {
+    "suffix": "epub",
+    "name": "EPUB 电子书",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/epub.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "电子书"
+    ]
+  },
+  {
+    "suffix": "exe",
+    "name": "Windows 可执行程序",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/exe.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Windows",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "fbx",
+    "name": "FBX 3D 模型",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/fbx.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D模型",
+      "动画"
+    ]
+  },
+  {
+    "suffix": "flac",
+    "name": "FLAC 无损音频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/flac.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "音频",
+      "无损",
+      "高质量"
+    ]
+  },
+  {
+    "suffix": "flv",
+    "name": "Flash 视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/flv.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "Flash"
+    ]
+  },
+  {
+    "suffix": "gif",
+    "name": "GIF 动图",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/gif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "动画",
+      "透明"
+    ]
+  },
+  {
+    "suffix": "gltf",
+    "name": "glTF 3D 模型",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/gltf.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D模型",
+      "网页",
+      "新一代"
+    ]
+  },
+  {
+    "suffix": "go",
+    "name": "Go 语言源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/go.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Golang",
+      "编译",
+      "后端"
+    ]
+  },
+  {
+    "suffix": "gradle",
+    "name": "Gradle 构建脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/gradle.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "构建工具",
+      "Java",
+      "Android"
+    ]
+  },
+  {
+    "suffix": "gz",
+    "name": "Gzip 压缩文件",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/gz.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "Linux"
+    ]
+  },
+  {
+    "suffix": "h",
+    "name": "C/C++ 头文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/h.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "头文件",
+      "C/C++"
+    ]
+  },
+  {
+    "suffix": "heic",
+    "name": "HEIC 图片",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/heic.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "Apple",
+      "新一代"
+    ]
+  },
+  {
+    "suffix": "heif",
+    "name": "HEIF 图片",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/heif.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "新一代"
+    ]
+  },
+  {
+    "suffix": "html",
+    "name": "HTML 网页文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/html.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "网页",
+      "前端"
+    ]
+  },
+  {
+    "suffix": "ico",
+    "name": "图标文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/ico.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "图标"
+    ]
+  },
+  {
+    "suffix": "ics",
+    "name": "日历日程文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/ics.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "日程"
+    ]
+  },
+  {
+    "suffix": "igs",
+    "name": "IGES 三维模型",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/igs.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D模型",
+      "交换格式"
+    ]
+  },
+  {
+    "suffix": "img",
+    "name": "磁盘镜像文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/img.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "镜像"
+    ]
+  },
+  {
+    "suffix": "inf",
+    "name": "INF 安装信息文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/inf.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "安装",
+      "Windows",
+      "驱动"
+    ]
+  },
+  {
+    "suffix": "ini",
+    "name": "INI 配置文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/ini.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "配置",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "ini",
+    "name": "INI 配置文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/ini.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "ipa",
+    "name": "iOS 应用",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/ipa.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "iOS",
+      "Apple"
+    ]
+  },
+  {
+    "suffix": "iso",
+    "name": "ISO 光盘镜像",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/iso.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "光盘"
+    ]
+  },
+  {
+    "suffix": "jar",
+    "name": "Java 归档文件",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/jar.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Java",
+      "归档"
+    ]
+  },
+  {
+    "suffix": "java",
+    "name": "Java 源代码",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/java.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "Java",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "jl",
+    "name": "Julia 脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jl.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Julia",
+      "科学计算"
+    ]
+  },
+  {
+    "suffix": "jpg",
+    "name": "JPEG 图片",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/jpg.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "照片",
+      "有损"
+    ]
+  },
+  {
+    "suffix": "js",
+    "name": "JavaScript 脚本",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/js.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "前端",
+      "脚本"
+    ]
+  },
+  {
+    "suffix": "json",
+    "name": "JSON 数据文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/json.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "数据",
+      "配置",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "jsp",
+    "name": "JSP 网页",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jsp.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Java",
+      "后端",
+      "Web"
+    ]
+  },
+  {
+    "suffix": "jsx",
+    "name": "React JSX 组件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/jsx.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "React",
+      "前端"
+    ]
+  },
+  {
+    "suffix": "key",
+    "name": "密钥文件",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/key.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "密钥",
+      "安全"
+    ]
+  },
+  {
+    "suffix": "keynote",
+    "name": "Keynote 演示",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/keynote.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "Apple",
+      "演示"
+    ]
+  },
+  {
+    "suffix": "kt",
+    "name": "Kotlin 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/kt.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Kotlin",
+      "Android",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "less",
+    "name": "Less 样式表",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/less.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "CSS",
+      "前端",
+      "预处理器"
+    ]
+  },
+  {
+    "suffix": "lnk",
+    "name": "Windows 快捷方式",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/lnk.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Windows",
+      "快捷方式"
+    ]
+  },
+  {
+    "suffix": "log",
+    "name": "日志文件",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/log.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "日志",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "log",
+    "name": "日志文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/log.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "lrc",
+    "name": "LRC 歌词文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/lrc.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "歌词",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "lua",
+    "name": "Lua 脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/lua.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "游戏"
+    ]
+  },
+  {
+    "suffix": "m3u",
+    "name": "M3U 播放列表",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/m3u.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "播放列表",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "m4a",
+    "name": "M4A 音频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/m4a.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "音频",
+      "Apple"
+    ]
+  },
+  {
+    "suffix": "magnet",
+    "name": "磁力链接文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/magnet.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "BT",
+      "磁力链接",
+      "P2P"
+    ]
+  },
+  {
+    "suffix": "max",
+    "name": "3ds Max 文件",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/max.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3ds Max",
+      "动画"
+    ]
+  },
+  {
+    "suffix": "md",
+    "name": "Markdown 文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/md.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Markdown",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "md5",
+    "name": "MD5 校验文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/md5.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "校验",
+      "安全"
+    ]
+  },
+  {
+    "suffix": "mid",
+    "name": "MIDI 音乐",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/mid.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "MIDI",
+      "音乐"
+    ]
+  },
+  {
+    "suffix": "mkv",
+    "name": "Matroska 视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mkv.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "高清"
+    ]
+  },
+  {
+    "suffix": "mobi",
+    "name": "Mobi 电子书",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/mobi.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "电子书",
+      "Kindle"
+    ]
+  },
+  {
+    "suffix": "mov",
+    "name": "QuickTime 视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mov.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "Apple"
+    ]
+  },
+  {
+    "suffix": "mp3",
+    "name": "MP3 音频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mp3.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "音频",
+      "通用",
+      "有损"
+    ]
+  },
+  {
+    "suffix": "mp4",
+    "name": "MP4 视频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/mp4.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "mpg",
+    "name": "MPEG 视频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/mpg.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "视频",
+      "经典"
+    ]
+  },
+  {
+    "suffix": "msg",
+    "name": "Outlook 邮件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/msg.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "Outlook"
+    ]
+  },
+  {
+    "suffix": "msi",
+    "name": "Windows 安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/msi.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Windows",
+      "安装"
+    ]
+  },
+  {
+    "suffix": "nfo",
+    "name": "信息文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/nfo.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "信息",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "numbers",
+    "name": "Numbers 表格",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/numbers.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "Apple",
+      "表格"
+    ]
+  },
+  {
+    "suffix": "obj",
+    "name": "OBJ 3D 模型",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/obj.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D模型",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "odp",
+    "name": "OpenDocument 演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/odp.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常"
+    ]
+  },
+  {
+    "suffix": "ods",
+    "name": "OpenDocument 电子表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/ods.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常"
+    ]
+  },
+  {
+    "suffix": "odt",
+    "name": "OpenDocument 文档",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/odt.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "OpenDocument",
+      "开源"
+    ]
+  },
+  {
+    "suffix": "ogg",
+    "name": "Ogg 音频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/ogg.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "开源",
+      "音频"
+    ]
+  },
+  {
+    "suffix": "opus",
+    "name": "Opus 音频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/opus.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "新一代",
+      "音频"
+    ]
+  },
+  {
+    "suffix": "otf",
+    "name": "OpenType 字体",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/otf.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "OpenType"
+    ]
+  },
+  {
+    "suffix": "out",
+    "name": "编译输出文件",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/out.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "编译",
+      "Linux"
+    ]
+  },
+  {
+    "suffix": "pages",
+    "name": "Pages 文档",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/pages.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "Apple"
+    ]
+  },
+  {
+    "suffix": "part",
+    "name": "下载中文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/part.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "下载",
+      "临时"
+    ]
+  },
+  {
+    "suffix": "pdf",
+    "name": "PDF 便携文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pdf.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "只读"
+    ]
+  },
+  {
+    "suffix": "pem",
+    "name": "PEM 证书",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/pem.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "安全"
+    ]
+  },
+  {
+    "suffix": "php",
+    "name": "PHP 脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/php.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "后端",
+      "Web"
+    ]
+  },
+  {
+    "suffix": "pkg",
+    "name": "macOS 安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/pkg.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "macOS",
+      "Apple",
+      "安装"
+    ]
+  },
+  {
+    "suffix": "pl",
+    "name": "Perl 脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/pl.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Perl"
+    ]
+  },
+  {
+    "suffix": "plist",
+    "name": "属性列表文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/plist.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "Apple",
+      "配置"
+    ]
+  },
+  {
+    "suffix": "png",
+    "name": "PNG 透明图片",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/png.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "透明",
+      "无损"
+    ]
+  },
+  {
+    "suffix": "ppt",
+    "name": "PowerPoint 97-2003 演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/ppt.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "PowerPoint",
+      "Office",
+      "演示"
+    ]
+  },
+  {
+    "suffix": "pptm",
+    "name": "PowerPoint 宏演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pptm.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "PowerPoint",
+      "Office",
+      "演示"
+    ]
+  },
+  {
+    "suffix": "pptx",
+    "name": "PowerPoint 演示文稿",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/pptx.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "PowerPoint",
+      "Office",
+      "演示"
+    ]
+  },
+  {
+    "suffix": "psb",
+    "name": "Photoshop 大文档",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/psb.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "Photoshop",
+      "大文件"
+    ]
+  },
+  {
+    "suffix": "psd",
+    "name": "Photoshop 文档",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/psd.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "Photoshop"
+    ]
+  },
+  {
+    "suffix": "py",
+    "name": "Python 源代码",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/py.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "Python",
+      "脚本"
+    ]
+  },
+  {
+    "suffix": "qcow2",
+    "name": "QEMU 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/qcow2.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "QEMU",
+      "KVM"
+    ]
+  },
+  {
+    "suffix": "r",
+    "name": "R 语言脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/r.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "数据科学",
+      "统计"
+    ]
+  },
+  {
+    "suffix": "rar",
+    "name": "RAR 压缩包",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/rar.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "raw",
+    "name": "RAW 原始图像",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/raw.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "摄影",
+      "专业",
+      "无损"
+    ]
+  },
+  {
+    "suffix": "rb",
+    "name": "Ruby 脚本",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/rb.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Ruby"
+    ]
+  },
+  {
+    "suffix": "reg",
+    "name": "注册表文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/reg.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "注册表",
+      "Windows",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "rm",
+    "name": "RealMedia 视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/rm.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "RealMedia",
+      "经典"
+    ]
+  },
+  {
+    "suffix": "rmvb",
+    "name": "RealMedia 可变比特率视频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/rmvb.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "RealMedia",
+      "经典"
+    ]
+  },
+  {
+    "suffix": "rpm",
+    "name": "RPM 安装包",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/rpm.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Linux",
+      "RedHat",
+      "安装"
+    ]
+  },
+  {
+    "suffix": "rs",
+    "name": "Rust 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/rs.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Rust",
+      "编译",
+      "系统"
+    ]
+  },
+  {
+    "suffix": "rtf",
+    "name": "RTF 富文本",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/rtf.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "富文本",
+      "跨平台"
+    ]
+  },
+  {
+    "suffix": "run",
+    "name": "Linux 运行包",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/run.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Linux"
+    ]
+  },
+  {
+    "suffix": "scala",
+    "name": "Scala 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/scala.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "JVM",
+      "函数式"
+    ]
+  },
+  {
+    "suffix": "scr",
+    "name": "屏幕保护程序",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/scr.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Windows",
+      "危险"
+    ]
+  },
+  {
+    "suffix": "scss",
+    "name": "SCSS 样式表",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/scss.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "CSS",
+      "前端",
+      "预处理器"
+    ]
+  },
+  {
+    "suffix": "sfv",
+    "name": "SFV 校验文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sfv.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "校验",
+      "文件验证"
+    ]
+  },
+  {
+    "suffix": "sh",
+    "name": "Shell 脚本",
+    "category": "可执行程序与系统文件",
+    "categoryPath": "05-可执行程序与系统文件",
+    "docPath": "docs/05-可执行程序与系统文件/sh.md",
+    "tags": [
+      "可执行",
+      "系统",
+      "安全",
+      "Linux",
+      "脚本"
+    ]
+  },
+  {
+    "suffix": "sha256",
+    "name": "SHA256 校验文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sha256.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "校验",
+      "安全"
+    ]
+  },
+  {
+    "suffix": "sketch",
+    "name": "Sketch 设计文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/sketch.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "Mac",
+      "UI设计"
+    ]
+  },
+  {
+    "suffix": "sql",
+    "name": "SQL 数据库脚本",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/sql.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "数据库"
+    ]
+  },
+  {
+    "suffix": "sqlite",
+    "name": "SQLite 数据库",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/sqlite.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "轻量"
+    ]
+  },
+  {
+    "suffix": "srt",
+    "name": "SRT 字幕文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/srt.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "字幕",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "step",
+    "name": "STEP 三维模型",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/step.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D模型",
+      "标准"
+    ]
+  },
+  {
+    "suffix": "stl",
+    "name": "STL 3D 打印",
+    "category": "3D建模与CAD格式",
+    "categoryPath": "09-3D建模与CAD格式",
+    "docPath": "docs/09-3D建模与CAD格式/stl.md",
+    "tags": [
+      "3D",
+      "CAD",
+      "建模",
+      "3D打印"
+    ]
+  },
+  {
+    "suffix": "sub",
+    "name": "SUB 字幕文件",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/sub.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "字幕",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "svg",
+    "name": "SVG 矢量图",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/svg.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "矢量",
+      "网页"
+    ]
+  },
+  {
+    "suffix": "swift",
+    "name": "Swift 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/swift.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Apple",
+      "iOS",
+      "编译"
+    ]
+  },
+  {
+    "suffix": "sys",
+    "name": "Windows 系统文件",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/sys.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "驱动"
+    ]
+  },
+  {
+    "suffix": "tar",
+    "name": "TAR 归档文件",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/tar.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "Linux"
+    ]
+  },
+  {
+    "suffix": "tex",
+    "name": "LaTeX 文档",
+    "category": "小众文档与电子书",
+    "categoryPath": "11-小众文档与电子书",
+    "docPath": "docs/11-小众文档与电子书/tex.md",
+    "tags": [
+      "电子书",
+      "小众",
+      "文档",
+      "LaTeX",
+      "学术"
+    ]
+  },
+  {
+    "suffix": "tga",
+    "name": "TGA 图像",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/tga.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "游戏",
+      "纹理"
+    ]
+  },
+  {
+    "suffix": "tif",
+    "name": "TIFF 图像",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/tif.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "印刷",
+      "高质量"
+    ]
+  },
+  {
+    "suffix": "tmp",
+    "name": "临时文件",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/tmp.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "临时"
+    ]
+  },
+  {
+    "suffix": "toml",
+    "name": "TOML 配置文件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/toml.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "配置",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "torrent",
+    "name": "BT 种子文件",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/torrent.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "BT",
+      "下载",
+      "P2P"
+    ]
+  },
+  {
+    "suffix": "ts",
+    "name": "TypeScript 源代码",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/ts.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "TypeScript",
+      "前端"
+    ]
+  },
+  {
+    "suffix": "tsv",
+    "name": "制表符分隔值",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/tsv.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "表格",
+      "数据",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "tsx",
+    "name": "React TSX 组件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/tsx.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "React",
+      "前端",
+      "TypeScript"
+    ]
+  },
+  {
+    "suffix": "ttf",
+    "name": "TrueType 字体",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/ttf.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "TrueType"
+    ]
+  },
+  {
+    "suffix": "txt",
+    "name": "纯文本文件",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/txt.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "文本",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "url",
+    "name": "URL 快捷方式",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/url.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "快捷方式",
+      "网页",
+      "链接"
+    ]
+  },
+  {
+    "suffix": "vcf",
+    "name": "电子名片",
+    "category": "邮件日历与其它常见格式",
+    "categoryPath": "15-邮件日历与其它常见格式",
+    "docPath": "docs/15-邮件日历与其它常见格式/vcf.md",
+    "tags": [
+      "邮件",
+      "日历",
+      "杂项",
+      "名片",
+      "通讯录"
+    ]
+  },
+  {
+    "suffix": "vdi",
+    "name": "VirtualBox 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/vdi.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "VirtualBox"
+    ]
+  },
+  {
+    "suffix": "vmdk",
+    "name": "VMware 虚拟磁盘",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/vmdk.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "VMware"
+    ]
+  },
+  {
+    "suffix": "vob",
+    "name": "DVD 视频文件",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/vob.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "视频",
+      "DVD"
+    ]
+  },
+  {
+    "suffix": "vue",
+    "name": "Vue 组件",
+    "category": "高级编程与脚本",
+    "categoryPath": "13-高级编程与脚本",
+    "docPath": "docs/13-高级编程与脚本/vue.md",
+    "tags": [
+      "编程",
+      "脚本",
+      "开发",
+      "Vue",
+      "前端",
+      "框架"
+    ]
+  },
+  {
+    "suffix": "war",
+    "name": "Java Web 应用",
+    "category": "移动应用与软件安装包",
+    "categoryPath": "10-移动应用与软件安装包",
+    "docPath": "docs/10-移动应用与软件安装包/war.md",
+    "tags": [
+      "安装包",
+      "移动",
+      "应用",
+      "Java",
+      "Web"
+    ]
+  },
+  {
+    "suffix": "wasm",
+    "name": "WebAssembly 模块",
+    "category": "虚拟化与数据库",
+    "categoryPath": "14-虚拟化与数据库",
+    "docPath": "docs/14-虚拟化与数据库/wasm.md",
+    "tags": [
+      "虚拟化",
+      "数据库",
+      "虚拟机",
+      "WebAssembly",
+      "网页"
+    ]
+  },
+  {
+    "suffix": "wav",
+    "name": "WAV 无损音频",
+    "category": "音视频媒体类",
+    "categoryPath": "03-音视频媒体类",
+    "docPath": "docs/03-音视频媒体类/wav.md",
+    "tags": [
+      "音视频",
+      "媒体",
+      "娱乐",
+      "音频",
+      "无损"
+    ]
+  },
+  {
+    "suffix": "webm",
+    "name": "WebM 视频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/webm.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "网页",
+      "视频"
+    ]
+  },
+  {
+    "suffix": "webp",
+    "name": "WebP 图片",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/webp.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "新一代",
+      "网页"
+    ]
+  },
+  {
+    "suffix": "wma",
+    "name": "WMA 音频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/wma.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "Windows",
+      "音频"
+    ]
+  },
+  {
+    "suffix": "wmv",
+    "name": "WMV 视频",
+    "category": "小众图片与媒体格式",
+    "categoryPath": "12-小众图片与媒体格式",
+    "docPath": "docs/12-小众图片与媒体格式/wmv.md",
+    "tags": [
+      "图片",
+      "音视频",
+      "小众",
+      "Windows",
+      "视频"
+    ]
+  },
+  {
+    "suffix": "woff",
+    "name": "WOFF 字体",
+    "category": "字体系统专属格式",
+    "categoryPath": "08-字体系统专属格式",
+    "docPath": "docs/08-字体系统专属格式/woff.md",
+    "tags": [
+      "字体",
+      "系统",
+      "证书",
+      "网页"
+    ]
+  },
+  {
+    "suffix": "wps",
+    "name": "WPS 文字文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/wps.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "WPS"
+    ]
+  },
+  {
+    "suffix": "xcf",
+    "name": "GIMP 图像文件",
+    "category": "图片与设计文件类",
+    "categoryPath": "02-图片与设计文件类",
+    "docPath": "docs/02-图片与设计文件类/xcf.md",
+    "tags": [
+      "图片",
+      "设计",
+      "媒体",
+      "GIMP",
+      "开源"
+    ]
+  },
+  {
+    "suffix": "xls",
+    "name": "Excel 97-2003 表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xls.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Excel",
+      "Office",
+      "表格"
+    ]
+  },
+  {
+    "suffix": "xls",
+    "name": "Excel 97-2003 表格",
+    "category": "数据配置日志类",
+    "categoryPath": "07-数据配置日志类",
+    "docPath": "docs/07-数据配置日志类/xls.md",
+    "tags": [
+      "配置",
+      "数据",
+      "日志",
+      "Excel",
+      "Office",
+      "表格"
+    ]
+  },
+  {
+    "suffix": "xlsm",
+    "name": "Excel 宏表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xlsm.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Excel",
+      "Office",
+      "表格"
+    ]
+  },
+  {
+    "suffix": "xlsx",
+    "name": "Excel 表格",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xlsx.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "Excel",
+      "Office",
+      "表格"
+    ]
+  },
+  {
+    "suffix": "xml",
+    "name": "XML 数据文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/xml.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "数据",
+      "配置",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "xps",
+    "name": "XPS 文档",
+    "category": "日常办公文档类",
+    "categoryPath": "01-日常办公文档类",
+    "docPath": "docs/01-日常办公文档类/xps.md",
+    "tags": [
+      "办公",
+      "文档",
+      "日常",
+      "只读"
+    ]
+  },
+  {
+    "suffix": "xz",
+    "name": "XZ 压缩文件",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/xz.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "Linux",
+      "高压缩"
+    ]
+  },
+  {
+    "suffix": "yaml",
+    "name": "YAML 配置文件",
+    "category": "编程源代码文件",
+    "categoryPath": "06-编程源代码文件",
+    "docPath": "docs/06-编程源代码文件/yaml.md",
+    "tags": [
+      "编程",
+      "源代码",
+      "开发",
+      "配置",
+      "文本"
+    ]
+  },
+  {
+    "suffix": "zip",
+    "name": "ZIP 压缩包",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/zip.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "通用"
+    ]
+  },
+  {
+    "suffix": "zst",
+    "name": "Zstandard 压缩",
+    "category": "压缩打包镜像类",
+    "categoryPath": "04-压缩打包镜像类",
+    "docPath": "docs/04-压缩打包镜像类/zst.md",
+    "tags": [
+      "压缩",
+      "镜像",
+      "归档",
+      "新一代",
+      "高压缩"
+    ]
+  }
+]
